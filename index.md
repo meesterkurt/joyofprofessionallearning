@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Marketing Agency | MKG Marketing Inc.
-meta: MKG Marketing Inc is a digital marketing agency focused on SEM and Social Advertising.
+title: Professional Learning | The Joy of Professional Learning
+meta: The Joy of Professional Learning pulls together a series of recipes to help educators 
 permalink: /
 ---
 
@@ -11,7 +11,7 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp"> Big Agency experience <br>sans Big Agency overhead.</h1>
+          <h1 class="animated fadeInUp"> The Joy of Professional Learning</h1>
           <blockquote class="animated fadeInUp">Never stop testing, and your advertising will never stop improving.<br><cite>David Ogilvy</cite></blockquote>
           <p class="animated fadeInUp"><a href="/contact">Contact us today</a></p>
         </div>
