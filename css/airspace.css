@@ -63,7 +63,7 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #333;
+  background: #FF68D2;
   padding: 0;
 }
 header .navbar {
@@ -88,7 +88,7 @@ header .navbar-default .navbar-nav li a {
   font-size: 15px;
 }
 header .navbar-default .navbar-nav li a:hover {
-  color: #ff6600;
+  color: #FF68D2;
 }
 /*---------------------------------------------
 					Index Start
@@ -113,7 +113,7 @@ header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #453c38, #d2a879);
   opacity: 0.8;
 }
 #slider .block {
@@ -259,7 +259,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #ff6600;
+  background: #FF68D2;
   color: #fff;
   padding: 10px 20px;
 }
@@ -791,7 +791,7 @@ footer p {
   color: #919191;
 }
 footer a {
-  color: #595959;
+  color: #FF68D2;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -806,7 +806,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #FF68D2;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
