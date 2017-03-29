@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Learning | The Joy of Professional Learning
+seotitle: Professional Learning | The Joy of Professional Learning
 meta: The Joy of Professional Learning pulls together a series of recipes to help educators
 permalink: /
 ---
@@ -26,11 +26,14 @@ permalink: /
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>About Us</h2>
-            <p>MKG only hires experts.</p>
+            <h2>For educators, by educators</h2>
+            <p>We have all been professional learning coaches.</p>
           </div>
-          <p>Experts are quantified by having 8+ years of experience in a specific service. Collectively MKG has 50+ years of experience. Your account will never be handled by anyone below a senior role. It’s not fair to the assistants in the industry who are handed more responsibility then they’re ready for or fair to you, the client.</p>
+          <p>The Joy of Professional Learning introduces recipes, a different approach to current professional learning. They represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
+          <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity and classroom examples that support a personal learning experience for every teacher.</p>
+          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning going.</p>
         </div>
+        <p><a href="/about/">Meet the team</a></p>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
         <div class="block">
@@ -45,11 +48,9 @@ permalink: /
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
-        <h2>We won’t waste your time (or ours)</h2>
-        <p>We are a SCRUM based organization. We even have a certified SCRUM master! </p>
-        <p>Scrum or Agile, is a disciplined project management process that encourages frequent inspection and adaptation, and strong leadership.</p>
-        <p>We weekly sprint plan, and daily stand-up to know what everyone is working on and uncover any impediments, then we get out of each other’s way and get work done.</p>
-        <a href="/mkg-difference" class="btn btn-view-works">See What Makes Us Different</a>
+        <h2>Platform of choice</h2>
+        <p>iOS, Kindle, or Chrome. The Joy of Professional Learning books are available in 51 online stores worldwide.</p>
+        <a href="/books/" class="btn btn-view-works">Check availability</a>
       </div>
     </div>
   </div>
@@ -60,37 +61,37 @@ permalink: /
   <div class="container">
     <div class="row">
       <div class="section-title">
-        <h2>Our Services</h2>
-        <p>We are not a full service agency. We specialize in Search Engine Marketing (Organic and Paid Search), Facebook Advertising, and Analytics.</p>
+        <h2>Books Available</h2>
+        <p>Below are our top four best sellers. For a full list, <a href="/books/">click here</a></p>
       </div>
     </div>
     <div class="row ">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <i class="icon ion-coffee"></i>
-          <h4>Organic Search</h4>
-          <p>We have a secret sauce in helping your website rank for your audience. </p>
+          <img src="img/joy-professional-learning-basics-v1.png" />
+          <h4>The Basics - Part One</h4>
+          <p>This book introduces nine basic recipes that are a different approach to current professional learning.</p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <i class="ion-compass"></i>
-          <h4>Paid Search</h4>
-          <p>We're hyper focused around your company goals. We’ve run PPC campaigns across five different continents, in more than a dozen languages and across all search engines.</p>
+          <img src="img/joy-professional-learning-basics-v2.png" />
+          <h4>The Basics - Part Two</h4>
+          <p>This book introduces nine more basic recipes that are a different approach to current professional learning.</p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <i class="ion-image"></i>
-          <h4>Facebook Advertising</h4>
-          <p>Unlike the tried and true paid search, these channels are constantly changing. We stay informed and test and learn any and all new opportunities.</p>
+          <img src="img/joy-professional-learning-innovative.png" />
+          <h4>The Joy of Professional Learning</h4>
+          <p>This book introduces sixteen recipes that are a different approach to current professional learning. </p>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <i class="ion-bug"></i>
-          <h4>Research and Analytics</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut </p>
+          <img src="img/joy-professional-learning-confrences.png" />
+          <h4>The Guest Chefs</h4>
+          <p>For this fourth book in our series of professional learning, we have asked "Guest Chefs" from around the world to add their favorite professional learning recipes. </p>
         </div>
       </div>
     </div>
@@ -102,9 +103,9 @@ permalink: /
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>Overly qualified and certified</h2>
-          <p>In 2016, Google honored our Paid Search team’s hard work by inviting us to be a Premiere Partner - only 5% of agencies using Adwords were invited. This means we have 24/7 Google Adwords support. </p>
-          <a class="btn btn-default btn-call-to-action" href="/about/">See all certifications</a>
+          <h2>Resouces Available</h2>
+          <p>Some recipes are better with our recommended books, games, and products.</p>
+          <a class="btn btn-default btn-call-to-action" href="/resouces/">See all resources</a>
         </div>
       </div>
     </div>
@@ -126,28 +127,28 @@ permalink: /
             <li>
               <div class="block">
                 <i class="ion-ios-glasses-outline"></i>
-                <h4 class="counter">160000000</h4>
-                <span>Impressions</span>
+                <h4 class="counter">1700</h4>
+                <span>Downloads</span>
               </div>
             </li>
             <li>
               <div class="block">
                 <i class="ion-ios-chatboxes-outline"></i>
-                <h4 class="counter">31300</h4>
-                <span>Paid Search Conversions</span>
+                <h4 class="counter">51</h4>
+                <span>Available stores worldwide</span>
               </div>
             </li>
             <li>
               <div class="block">
                 <i class="ion-ios-compose-outline"></i>
-                <h4><span class="counter">80</span>%</h4>
-                <span>Employee Retention</span>
+                <h4><span class="counter">2016</span></h4>
+                <span>Featuerd by Apple as Best Books</span>
               </div>
             </li>
             <li>
               <div class="block">
                 <i class="ion-ios-timer-outline"></i>
-                <h4 class="counter">50</h4>
+                <h4 class="counter">100</h4>
                 <span>Years of collective experience</span>
               </div>
             </li>
@@ -159,26 +160,19 @@ permalink: /
           <div id="testimonial-slider" class="owl-carousel">
             <div>
                 <img src="img/cotation.png" alt="IMG">
-                <p>"If you’re looking for a transparent, honest, and smart SEM partner, MKG is fantastic."</p>
+                <p>"I've downloaded and shared the book with my teachers. It's great. I like the format and the layout of the pages and interactives. Also.... great content! It will be very helpful for me as I prepare for working with my institution on reimaging PD."</p>
                 <div class="user">
                   <img src="img/item-img1.jpg" alt="Pepole">
-                  <p><span>Dave Arensberg</span> VP of Media</p>
+                  <p><span>Ryan Orilio </span> Technology Coordinator at Mohawk Regional Information Center</p>
                 </div>
             </div>
             <div>
               <img src="img/cotation.png" alt="IMG">
-                <p>"If you're interested in MKG for SEO, you will definitely not go wrong. I actually just approved two more SEO-related pieces of work to drive more OnDemand sign ups. MKG is also excellent at demand gen/acquisition. I relied 100% on MKG for this."</p>
+                <p>"Working in teacher training and further education it is often difficult to get books that are relevant to my teaching environment but these books easily adapt and I look forward to seeing new releases by the Joy of Professional Learning team."</p>
                 <div class="user">
                   <img src="img/item-img2.jpg" alt="Pepole">
-                  <p><span>Marguerite Yeo</span> Director of Web Marketing</p>
-                </div>
-            </div>
-            <div>
-              <img src="img/cotation.png" alt="IMG">
-                <p>"The MKG team is fantastic and delivers excellent service. The team is proactive, responsive, professional and, most importantly, enthusiastic. The education industry can be complex and MKG has been navigating it with open arms. In addition to a deep knowledge of digital, what resonated for us was how devoted the team is to our business, goals and the overall success of our schools.  We’ve been working with MKG for 3 months now and can already attest that they are a great strategic partner."</p>
-                <div class="user">
-                  <img src="img/item-img3.jpg" alt="Pepole">
-                  <p><span>Kim Carey</span> Associate Director of Branding and Media</p>
+                  <p><span>Miriam Walsh</span> Cork Education and Training Board
+</p>
                 </div>
             </div>
           </div>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact us!
+seotitle: Contact the Joy of Professional Learning Team | Joy of Professional Learning
 permalink: /contact/
 ---
 
@@ -11,7 +12,7 @@ permalink: /contact/
       <div class="col-md-12">
         <div class="block">
           <h1>Drop Us A Note</h1>
-          <p>Ready to get started? Call Mike at 206-496-2005.</p>
+          <p>Have questions? Email us at <a href="mailto:joyofpl@ictatelier.be">joyofpl@ictatelier.be</a></p>
         </div>
       </div>
     </div>
@@ -50,16 +51,13 @@ permalink: /contact/
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <h2>Stop By For A visit</h2>
+          <h2Let us know your thoughts</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-map-marker"></i>3014 Dauphine St. Suite P New Orleans, LA
+              <i class="fa fa-envelope-o"></i>Email: joyofpl@ictatelier.be
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>Email: mike@mkgmarketinginc.com
-            </li>
-            <li>
-              <i class="fa fa-phone"></i>Phone:+1 206 496 2005
+              <i class="fa fa-phone"></i>Phone:+1 484 843 1610
             </li>
           </ul>
 
@@ -68,13 +66,13 @@ permalink: /contact/
               <a href="http://www.plus.google.com/mkgmarketinginc"><i class="fa fa-google"></i></a>
             </li>
             <li>
-              <a href="http://www.linkedin.com/mkgmarketinginc"><i class="fa fa-linkedin"></i></a>
+              <a href="http://www.linkedin.com/mkgmarketinginc"><i class="fa fa-instagram"></i></a>
             </li>
             <li>
-              <a href="http://www.twitter.com/mkgmarketinginc"><i class="fa fa-twitter"></i></a>
+              <a href="https://twitter.com/joyofpl?lang=en"><i class="fa fa-twitter"></i></a>
             </li>
             <li>
-              <a href="http://www.facebook.com/mkgmarketinginc"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.facebook.com/joyofpl/?hc_ref=SEARCH"><i class="fa fa-facebook"></i></a>
             </li>
           </ul>
         </div>

@@ -76,7 +76,7 @@ header .navbar-brand {
     padding: 0;}
 
 header .navbar-brand img{
-  width: 10%
+  width: 12%;
 }
 header .navbar-default {
   background: none;
@@ -113,7 +113,7 @@ header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #453c38, #d2a879);
+  background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
 #slider .block {
@@ -182,6 +182,10 @@ header .navbar-default .navbar-nav li a:hover {
   font-size: 14px;
   line-height: 1.8;
 }
+
+#service .service-item img {
+  width: 100%;
+}
 /*--
 	call-to-action Start
 --*/
@@ -219,9 +223,9 @@ header .navbar-default .navbar-nav li a:hover {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #fff;
+  background-color: #FF68D2;
   font-size: 15px;
-  color: #333333;
+  color: #fff;
   margin-top: 30px;
 }
 /*--
@@ -488,6 +492,7 @@ header .navbar-default .navbar-nav li a:hover {
   -moz-transform: translate(0%, -50%);
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
+  width: 100%;
 }
 #portfolio-work .block .portfolio-contant ul li a {
   display: block;
