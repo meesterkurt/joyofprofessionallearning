@@ -16,8 +16,8 @@ img: featue-about-bg
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
                     <li class="mix">
-                      <a href="{{ site.baseurl }}/about/kurtklynen/">
-                        <img src="{{ site.baseurl }}/img/kurt.jpg" alt="" />
+                      <a href="/about/kurtklynen/">
+                        <img src="/img/kurt.jpg" alt="" />
                         <div class="overly">
                           <div class="position-center">
                             <h2>Kurt Klynen</h2>
