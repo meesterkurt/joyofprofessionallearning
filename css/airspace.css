@@ -73,10 +73,17 @@ header .navbar {
 
 header .navbar-brand {
     height: 30px;
-    padding: 0;}
+    padding: 0;
+    float: none;
+  }
 
 header .navbar-brand img{
-  width: 12%;
+  width: 15%;
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+.navbar-brand>img {
+    display: inline;
 }
 header .navbar-default {
   background: none;
