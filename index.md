@@ -50,7 +50,6 @@ permalink: /
       <div class="col-md-6 col-md-offset-6">
         <h2>Platform of choice</h2>
         <p>iOS, Kindle, or Chrome. The Joy of Professional Learning books are available in 51 online stores worldwide.</p>
-        <a href="/books/" class="btn btn-view-works">Check availability</a>
       </div>
     </div>
   </div>
@@ -71,6 +70,7 @@ permalink: /
           <img src="img/joy-professional-learning-basics-v1.png" />
           <h4>The Basics - Part One</h4>
           <p>This book introduces nine basic recipes that are a different approach to current professional learning.</p>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-basics-part-one/id1164710031?mt=11">Download on iTunes</a>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -78,6 +78,7 @@ permalink: /
           <img src="img/joy-professional-learning-basics-v2.png" />
           <h4>The Basics - Part Two</h4>
           <p>This book introduces nine more basic recipes that are a different approach to current professional learning.</p>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-basics-part-two/id1175094462?mt=11">Download on iTunes</a>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -85,6 +86,7 @@ permalink: /
           <img src="img/joy-professional-learning-innovative.png" />
           <h4>The Joy of Professional Learning</h4>
           <p>This book introduces sixteen recipes that are a different approach to current professional learning. </p>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning/id1155093835?mt=11">Download on iTunes</a>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -92,6 +94,7 @@ permalink: /
           <img src="img/joy-professional-learning-confrences.png" />
           <h4>The Guest Chefs</h4>
           <p>For this fourth book in our series of professional learning, we have asked "Guest Chefs" from around the world to add their favorite professional learning recipes. </p>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-guest-chefs/id1215839734?mt=11">Download on iTunes</a>
         </div>
       </div>
     </div>

@@ -258,7 +258,8 @@ header .navbar-default .navbar-nav li a:hover {
   font-weight: 600;
   margin-bottom: 30px;
 }
-#feature p {
+#feature p,
+#service p {
   color: #8d8f92;
   margin-bottom: 20px;
 }
