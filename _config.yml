@@ -14,14 +14,14 @@ keep_files:
 
 
 # Site settings
-title: MKG Marketing Inc.
-meta: "Digital Marketing Agency for technology enterprises."
+title: Joy of Professional Learning
+meta: "The Joy of Professional Learning pulls together a series of recipes to help educators"
 
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://kerryguard.github.io" # the base hostname & protocol for your site
+url: "joyofprofessionallearning.com" # the base hostname & protocol for your site
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -34,4 +34,4 @@ markdown: kramdown
 # Category descriptions (for archive pages)
 descriptions:
   - cat: blog
-    desc: "Blog posts about industry and MKG news"
+    desc: "Blog posts about the Joy of Professional Learning books and professional learning news."
