@@ -77,14 +77,6 @@ permalink: /contact/
           </ul>
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>We Also Count In Google Map</h2>
-            <div class="google-map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.5203052990196!2d-90.04865868505833!3d29.964473629301256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a62f891d5f2f%3A0x9e6b6d0119cbaa5d!2s3014+Dauphine+St+p%2C+New+Orleans%2C+LA+70117!5e0!3m2!1sen!2sus!4v1486011827538" width="555" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-        </div>
-      </div>
     </div>
   </div>
 </section>
