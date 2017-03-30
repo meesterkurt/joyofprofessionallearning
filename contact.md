@@ -51,7 +51,7 @@ permalink: /contact/
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <h2Let us know your thoughts</h2>
+          <h2>Let us know your thoughts</h2>
           <ul class="address-block">
             <li>
               <i class="fa fa-envelope-o"></i>Email: joyofpl@ictatelier.be

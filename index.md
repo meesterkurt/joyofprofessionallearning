@@ -108,7 +108,7 @@ permalink: /
         <div class="block">
           <h2>Resouces Available</h2>
           <p>Some recipes are better with our recommended books, games, and products.</p>
-          <a class="btn btn-default btn-call-to-action" href="/resouces/">See all resources</a>
+          <p class="btn btn-default btn-call-to-action" href="/resouces/">Coming soon!</p>
         </div>
       </div>
     </div>
