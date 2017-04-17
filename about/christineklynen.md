@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Christine (DiPaulo) Klynen
-position: Professional Learning Coach/Consultant
+position: Professional Learning Coach/Consultant | Apple Distinguished Educator | United States
 seotitle: Christine (DiPaulo) Klynen - Professional Learning Coach/Consultant | Joy of Professional Learning
 meta: Learn more about Christine(DiPaulo) Klynen and her contribution to the Joy of Professional Learning
 permalink: /about/christineklynen/
@@ -19,4 +19,4 @@ I am passionate about designing and delivering professional learning. As an inno
 I love creating meaningful learning experiences for parents, administrators, teachers and students. I believe learning comes from doing, feeling, and understanding through struggles and successes. My recent projects involve collaborative planning with teachers to create iTunes U courses for iPad in 1 to 1 schools. As a leader in collaboration, content creation, and team building, I‘ve worked closely with teachers to create engaging content, instructional design, inquiry learning, and personalized learning. I’ve created training courses centered on mobile learning, technology integration, and lessons for the classroom that foster creative thinking, problem solving, inquiry, with a community centered focus.
 
 
-Sharing my passion for creative and innovative practices I can seamlessly integrate technology in the classroom. I am the team lead for our iTunes U courses for 1 to 1 iPad. As a Digital Media Arts and Design teacher I guide students on a journey of visual storytelling and self discovery. I am mathematical and a problem solver. I am an Apple Distinguished Educator and was on the Apple Distinguished Educator Advisory Board, I serve on the ISTE Program Committee, am a Google Certified Teacher and Google Glass Explorer.
+Sharing my passion for creative and innovative practices I can seamlessly integrate technology in the classroom. I led a middle high school initiaitve to say goodbye to textbooks and publish all courses in iTunes U courses for 1 to 1 iPad. As a Digital Media Arts and Design teacher I guide students on a journey of visual storytelling and self discovery. I am mathematical and a problem solver. I am an Apple Distinguished Educator and was on the Apple Distinguished Educator Advisory Board, I serve on the ISTE Program Committee, am a Google Certified Trainer and Google Glass Explorer.
