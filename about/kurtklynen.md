@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Kurt Klynen
-position: Leadership and Vision Coach
+position: Leadership and Vision Coach | Apple Distinguished Educator | Belgium
 seotitle: Kurt Klynen - Leadership and Vision Coach | Joy of Professional Learning
 meta: Learn more about Kurt Klynen and his contribution to the Joy of Professional Learning
 permalink: /about/kurtklynen/
