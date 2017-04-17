@@ -9,7 +9,7 @@ img: about-christineklynen
 
 ---
 
-I am a Professional Learning Coach/Consultant
+I am a Professional Learning Coach/Consultant.
 My passion is my talent. I’m a passionate about education. To get a sense of my passion meet me face-to-face. Let's talk about what's possible. I always say see the road not roadblocks so for me there's nothing but possibilities. 
 
 I am passionate about leading teams in planning professional learning strategies around school district yearly vision and goals. Together we can design learning experiences that are focused on new ways to teach and learn. From snapshot presentations to full conferences, I think learning for teachers should model the expectations for active personalized learning in the classroom. I am passionate about education and ways to bring innovation the entire school community. I believe in sharing these stories from our school/ classroom at global conferences. 
