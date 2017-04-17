@@ -1,8 +1,8 @@
 ---
 layout: people
 title: Jason Kathman
-position: 7/8 Social Studies Educator at Jamestown Public Schools
-seotitle: Jason Kathman - 7/8 Social Studies Educator at Jamestown Public Schools | Joy of Professional Learning
+position: Technology Integration Specialist at Jamestown Public Schools
+seotitle: Jason Kathman - Technology Integration Specialist at Jamestown Public Schools | Joy of Professional Learning
 meta: Learn more about Jason Kathman and his contribution to the Joy of Professional Learning
 permalink: /about/jasonkathman/
 img: about-jasonkathman
