@@ -1,8 +1,8 @@
 ---
 layout: people
 title: Katie Morrow
-position: Instructional Technology Facilitator at Educational Service Unit 8
-seotitle: Katie Morrow - Instructional Technology Facilitator at Educational Service Unit 8 | Joy of Professional Learning
+position: Instructional Technology Facilitator | Apple Distinguished Educator | United States
+seotitle: Katie Morrow - Instructional Technology Facilitator | Joy of Professional Learning
 meta: Learn more about Katie Morrow and her contribution to the Joy of Professional Learning
 permalink: /about/katiemorrow/
 img: about-katiemorrow
