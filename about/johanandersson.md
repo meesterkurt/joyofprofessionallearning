@@ -1,8 +1,8 @@
 ---
 layout: people
 title: Johan Anderssonn
-position: 7/8 Social Studies Educator at Jamestown Public Schools
-seotitle: Johan Andersson - Pedagogical innovator at Johan Anderssons dansskola | Joy of Professional Learning
+position: Pedagogical Innovator | Apple Distinguished Educator | Sweden
+seotitle: Johan Andersson | Pedagogical Innovator  | Joy of Professional Learning
 meta: Learn more about Johan Andersson and his contribution to the Joy of Professional Learning
 permalink: /about/johanandersson/
 img: about-johanandersson
