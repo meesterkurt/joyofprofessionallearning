@@ -1,8 +1,8 @@
 ---
 layout: people
 title: Camilla Gagliolo
-position: ISTE 2017 Program Director at ISTE
-seotitle: Camilla Gagliolo - ISTE 2017 Program Director at ISTE | Joy of Professional Learning
+position: Instructional Technology Coordinator Arlington Public Schools Apple Distinguished Educator DC Virginia United States | ISTE 2017 Program Director at ISTE
+seotitle: Camilla Gagliolo - Instructional Technology Coordinator | ISTE 2017 Program Director at ISTE | Joy of Professional Learning
 meta: Learn more about Camilla Gagliolo and her contribution to the Joy of Professional Learning
 permalink: /about/camillagagliolo/
 img: about-camillagagliolo
