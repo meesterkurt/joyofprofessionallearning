@@ -2,7 +2,7 @@
 layout: individual
 title: Meet the Team of Educators
 seotitle: Meet the Team of Educators | Joy of Professional Learning
-meta: The Joy of Professional Learning books were masterfully orchestrated by a team of educators with over 100+ years of professional learning experience. Meet the team.
+meta: The Joy of Professional Learning books were masterfully orchestrated by a team of educators with over 100+ years of professional learning experience. Meet our team.
 permalink: /about/
 img: featue-about-bg
 
@@ -21,7 +21,7 @@ img: featue-about-bg
                         <div class="overly">
                           <div class="position-center">
                             <h2>Kurt Klynen</h2>
-                            <p>Leadership and Vision Coach</p>
+                            <p>Leadership and Vision Coach | Apple Distinguised Educator</p>
                           </div>
                         </div>
                       </a>
@@ -32,7 +32,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Christine Klynen</h2>
-                          <p>Learning Coach</p>
+                          <p>Professional Learning Coach/Consultant | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -43,7 +43,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Johan Andersson</h2>
-                          <p>Pedagogical innovator at Johan Anderssons dansskola</p>
+                          <p>Pedagogical Innovator | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -54,7 +54,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Cheryl Davis</h2>
-                          <p>Technology Specialist & Staff Development</p>
+                          <p>Technology Specialist & Staff Development | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -65,7 +65,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Camilla Gagliolo</h2>
-                          <p>ISTE 2017 Program Director at ISTE</p>
+                          <p>Instructional Technology Coordinator | ISTE Program Director | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -76,7 +76,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Jason Kathman</h2>
-                          <p>7/8 Social Studies Educator at Jamestown Public Schools</p>
+                          <p>Technology Integration Specialist | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -87,7 +87,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Katie Morrow</h2>
-                          <p>Instructional Technology Facilitator at Educational Service Unit 8</p>
+                          <p>Instructional Technology Facilitator | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
@@ -98,7 +98,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Marjan van de Vrie</h2>
-                          <p>Apple Professional Development trainer at Refresh.ed</p>
+                          <p>Education Advisor, Policy & Quality | Apple Distinguised Educator</p>
                         </div>
                       </div>
                     </a>
