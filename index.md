@@ -1,7 +1,7 @@
 ---
 layout: page
 seotitle: Professional Learning | The Joy of Professional Learning
-meta: The Joy of Professional Learning pulls together a series of recipes to help educators
+meta: The Joy of Professional Learning pulls together a series of recipes to enhanace professional learning expereinces. 
 permalink: /
 ---
 
@@ -29,9 +29,9 @@ permalink: /
             <h2>For educators, by educators</h2>
             <p>We have all been professional learning coaches.</p>
           </div>
-          <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. They represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
+          <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. The recipes represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
-          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning going.</p>
+          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.</p>
         </div>
         <p><a href="/about/">Meet our team</a></p>
       </div><!-- .col-md-7 close -->
