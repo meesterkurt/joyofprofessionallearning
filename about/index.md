@@ -21,7 +21,7 @@ img: featue-about-bg
                         <div class="overly">
                           <div class="position-center">
                             <h2>Kurt Klynen</h2>
-                            <p>Leadership and Vision Coach | Apple Distinguised Educator</p>
+                            <p>Leadership and Vision Coach/Consultant</p>
                           </div>
                         </div>
                       </a>
@@ -32,7 +32,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Christine Klynen</h2>
-                          <p>Professional Learning Coach/Consultant | Apple Distinguised Educator</p>
+                          <p>Professional Learning Coach/Consultant</p>
                         </div>
                       </div>
                     </a>
@@ -43,7 +43,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Johan Andersson</h2>
-                          <p>Pedagogical Innovator | Apple Distinguised Educator</p>
+                          <p>Pedagogical Innovator</p>
                         </div>
                       </div>
                     </a>
@@ -54,7 +54,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Cheryl Davis</h2>
-                          <p>Technology Specialist & Staff Development | Apple Distinguised Educator</p>
+                          <p>Technology Specialist & Staff Development</p>
                         </div>
                       </div>
                     </a>
@@ -65,7 +65,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Camilla Gagliolo</h2>
-                          <p>Instructional Technology Coordinator | ISTE Program Director | Apple Distinguised Educator</p>
+                          <p>Instructional Technology Coordinator | ISTE Program Director</p>
                         </div>
                       </div>
                     </a>
@@ -76,7 +76,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Jason Kathman</h2>
-                          <p>Technology Integration Specialist | Apple Distinguised Educator</p>
+                          <p>Technology Integration Specialist</p>
                         </div>
                       </div>
                     </a>
@@ -87,7 +87,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Katie Morrow</h2>
-                          <p>Instructional Technology Facilitator | Apple Distinguised Educator</p>
+                          <p>Instructional Technology Facilitator</p>
                         </div>
                       </div>
                     </a>
@@ -98,7 +98,7 @@ img: featue-about-bg
                       <div class="overly">
                         <div class="position-center">
                           <h2>Marjan van de Vrie</h2>
-                          <p>Education Advisor, Policy & Quality | Apple Distinguised Educator</p>
+                          <p>Education Advisor, Policy & Quality</p>
                         </div>
                       </div>
                     </a>
