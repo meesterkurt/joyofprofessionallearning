@@ -12,7 +12,7 @@ permalink: /
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
           <h1 class="animated fadeInUp"> The Joy of<br>Professional Learning</h1>
-          <p class="animated fadeInUp">Professional learning is inspirational and engaging. That’s why we designed different recipes clearly outlining the time, tools and ingredients to inspire you to cook up delicious learning activities for teachers.</p>
+          <p class="animated fadeInUp">Professional learning is inspirational and engaging. That’s why we designed different recipes clearly outlining the time, tools, and ingredients to inspire you to cook up delicious learning activities for teachers and leaders.</p>
           <p class="animated fadeInUp"><a href="/books">Download now</a></p>
         </div>
       </div>
@@ -29,8 +29,8 @@ permalink: /
             <h2>For educators, by educators</h2>
             <p>We have all been professional learning coaches.</p>
           </div>
-          <p>The Joy of Professional Learning introduces recipes, a different approach to current professional learning. They represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
-          <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity and classroom examples that support a personal learning experience for every teacher.</p>
+          <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. They represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
+          <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
           <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning going.</p>
         </div>
         <p><a href="/about/">Meet the team</a></p>
