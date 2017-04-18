@@ -21,4 +21,4 @@ I love creating meaningful learning experiences for parents, administrators, tea
 
 Sharing my passion for creative and innovative practices I can seamlessly integrate technology in the classroom. I led a middle high school initiaitve to say goodbye to textbooks and publish all courses in iTunes U courses for 1 to 1 iPad. As a Digital Media Arts and Design teacher I guide students on a journey of visual storytelling and self discovery. I am mathematical and a problem solver. 
 
-I am an Apple Distinguished Educator (Class 2009) and served on the Apple Distinguished Educator Advisory Board. I currently serve on the ISTE Program Committee, am a Google Certified Trainer and was a Google Glass Explorer.
+I have been in 1 to 1 schools from the beginning of my teaching career and I know first hand how technology transforms learning. From that experience I have been recognized as an Apple Distinguished Educator (ADE), was on the Apple Distinguished Educator Advisory Board (2012-2014). I am an AppleTeacher, a Google Certified Teacher, Google Certified Trainer, and I currently serve as a member of the ISTE Program Team.
