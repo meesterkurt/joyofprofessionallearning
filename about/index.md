@@ -72,7 +72,7 @@ img: featue-about-bg
                   </li>
                   <li class="mix">
                     <a href="/about/jasonkathman/">
-                      <img src="{{ site.baseurl }}/Kathman HiRes.jpg" alt="Jason Kathman" />
+                      <img src="{{ site.baseurl }}/img/KathmanHiRes.jpg" alt="Jason Kathman" />
                       <div class="overly">
                         <div class="position-center">
                           <h2>Jason Kathman</h2>
