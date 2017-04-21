@@ -49,7 +49,7 @@ permalink: /
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
         <h2>Platform of choice</h2>
-        <p>iOS, Kindle, or Chrome. The Joy of Professional Learning books are available in 51 online stores worldwide.</p>
+        <p>The Joy of Professional Learning books are available in 51 online stores worldwide. iOS, Kindle, or Chrome. </p>
       </div>
     </div>
   </div>
