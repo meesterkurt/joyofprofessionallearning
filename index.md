@@ -130,7 +130,7 @@ permalink: /
             <li>
               <div class="block">
                 <i class="ion-ios-glasses-outline"></i>
-                <h4 class="counter">1700</h4>
+                <h4 class="counter">1800</h4>
                 <span>Downloads</span>
               </div>
             </li>
