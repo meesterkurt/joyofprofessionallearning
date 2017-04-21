@@ -11,7 +11,7 @@ permalink: /
     <div class="row">
       <div class="col-md-10 col-md-offset-2">
         <div class="block">
-          <h1 class="animated fadeInUp"> The Joy of Professional Learning</h1>
+          <h1 class="animated fadeInUp"> The Joy of<br>Professional<br>Learning</h1>
           <p class="animated fadeInUp">Professional learning is inspirational and engaging. That’s why we designed different recipes clearly outlining the time, tools, and ingredients to inspire you to cook up delicious learning activities for teachers and leaders.</p>
           <p class="animated fadeInUp"><a href="/books">Download now</a></p>
         </div>
