@@ -63,7 +63,7 @@ permalink: /contact/
 
           <ul class="social-icons">
             <li>
-              <a href="http://www.plus.google.com/mkgmarketinginc"><i class="fa fa-google"></i></a>
+              <a href="https://plus.google.com/communities/100048750758797626973"><i class="fa fa-google"></i></a>
             </li>
             <li>
               <a href="https://twitter.com/joyofpl?lang=en"><i class="fa fa-twitter"></i></a>
