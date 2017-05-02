@@ -61,7 +61,7 @@ permalink: /
     <div class="row">
       <div class="section-title">
         <h2>Books Available</h2>
-        <p>Below are our top four best sellers. For a full list, <a href="/books/">click here</a></p>
+        <p>Below are our top four best sellers. For a full list, <a href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">click here</a></p>
       </div>
     </div>
     <div class="row ">
