@@ -145,7 +145,7 @@ permalink: /
               <div class="block">
                 <i class="ion-ios-compose-outline"></i>
                 <h4><span class="counter">2016</span></h4>
-                <span>Featuerd by Apple as Best Books</span>
+                <span>Featured by Apple as Best Books</span>
               </div>
             </li>
             <li>
@@ -163,7 +163,7 @@ permalink: /
           <div id="testimonial-slider" class="owl-carousel">
             <div>
                 <img src="img/cotation.png" alt="IMG">
-                <p>"I've downloaded and shared the book with my teachers. It's great. I like the format and the layout of the pages and interactives. Also.... great content! It will be very helpful for me as I prepare for working with my institution on reimaging PD."</p>
+                <p>"I've downloaded and shared these books with my teachers. It's great. I like the format and the layout of the pages and interactives. Also.... great content! It will be very helpful for me as I prepare for working with my institution on reimaging PD."</p>
                 <div class="user">
                   <img src="img/item-img1.jpg" alt="Pepole">
                   <p><span>Ryan Orilio </span> Technology Coordinator at Mohawk Regional Information Center</p>
