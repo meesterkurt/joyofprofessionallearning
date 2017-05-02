@@ -33,7 +33,7 @@ permalink: /
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
           <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.</p>
         </div>
-        <p><a href="/about/">Meet our team</a></p>
+        <p><a href="/about/">Meet Our Team</a></p>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
         <div class="block">
