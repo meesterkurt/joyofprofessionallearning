@@ -13,7 +13,7 @@ permalink: /
         <div class="block">
           <h1 class="animated fadeInUp"> The Joy of<br>Professional<br>Learning</h1>
           <p class="animated fadeInUp">Professional learning is inspirational and engaging. That’s why we designed different recipes clearly outlining the time, tools, and ingredients to inspire you to cook up delicious learning activities for teachers and leaders.</p>
-          <p class="animated fadeInUp"><a href="/books">Download now</a></p>
+          <p class="animated fadeInUp"><a href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Download now</a></p>
         </div>
       </div>
     </div>
