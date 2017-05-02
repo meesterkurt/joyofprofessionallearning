@@ -17,9 +17,9 @@
  }
 
 .post-area {
-  padding: 40px;
+  padding: 20px;
   width: 100%;
-  min-height: 150px;
+  min-height: 110px;
   background-color: white;
   border-bottom: 1px dotted #ddd;
 }
