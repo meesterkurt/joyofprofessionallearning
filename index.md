@@ -84,8 +84,8 @@ permalink: /
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <img src="img/joy-professional-learning-innovative.png" />
-          <h4>The Joy of Innovative Professional Learning</h4>
-          <p>This book introduces sixteen recipes that are a different approach to current professional learning. </p>
+          <h4>Innovative Professional Learning</h4>
+          <p>This book introduces sixteen recipes that are a different and innovative approach to current professional learning. </p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning/id1155093835?mt=11">Download on iTunes</a>
         </div>
       </div>
