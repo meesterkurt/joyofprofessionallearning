@@ -95,7 +95,7 @@ header .navbar-default .navbar-nav li a {
   font-size: 15px;
 }
 header .navbar-default .navbar-nav li a:hover {
-  color: #FF0000;
+  color: #0066CC;
 }
 /*---------------------------------------------
 					Index Start
@@ -221,7 +221,7 @@ color: #333;
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #FF0000;
+  background-color: #0066CC;
   font-size: 15px;
   color: #fff;
   margin-top: 30px;
@@ -262,7 +262,7 @@ color: #333;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #FF0000;
+  background: #0066CC;
   color: #fff;
   padding: 10px 20px;
 }
@@ -810,7 +810,7 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #FF0000;
+  color: #0066CC;
 }
 footer .footer-manu ul li a:hover {
   color: #000;
