@@ -476,7 +476,7 @@ color: #333;
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 20.2%;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -498,12 +498,12 @@ color: #333;
   color: #fff;
 }
 #portfolio-work .block .portfolio-contant ul li a h2 {
-  font-size: 22px;
+  font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 #portfolio-work .block .portfolio-contant ul li a p {
-  font-size: 15px;
+  font-size: 12px;
 }
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
