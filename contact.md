@@ -4,6 +4,36 @@ title: Contact us!
 seotitle: Contact the Joy of Professional Learning Team | Joy of Professional Learning
 permalink: /contact/
 ---
+-<!-- contact form start -->
+ -<section id="contact-form">
+ -  <div class="container">
+ -    <div class="row">
+ -      <div class="col-md-6 col-sm-12">
+ -        <div class="block">
+ -          <form>
+ -            <div class="form-group">
+ -              <input type="text" class="form-control" placeholder="Your Name">
+ -            </div>
+ -            <div class="form-group">
+ -              <input type="text" class="form-control" placeholder="Email Address">
+ -            </div>
+ -            <div class="form-group">
+ -              <input type="text" class="form-control" placeholder="Subject">
+ -            </div>
+ -          </form>
+ -        </div>
+ -      </div>
+ -      <div class="col-md-6 col-sm-12">
+ -        <div class="block">
+ -          <form>
+ -            <div class="form-group-2">
+ -              <textarea class="form-control" rows="3" placeholder="Your Message"></textarea>
+ -            </div>
+ -            <button class="btn btn-default" type="submit">Send Message</button>
+ -          </form>
+ -        </div>
+ -      </div>
+      </div>
 </div>
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
@@ -32,6 +62,7 @@ permalink: /contact/
           </ul>
        </div>
      </div>
+     
 </section>
           <ul class="social-icons">
             <li>
