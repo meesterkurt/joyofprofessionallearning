@@ -97,6 +97,8 @@ permalink: /
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-guest-chefs/id1215839734?mt=11">Download on iTunes</a>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <img src="img/Cover Leadership.png" />
@@ -120,9 +122,9 @@ permalink: /
           <p>COMING SOON.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Coming Soon</a>
           </div>
+        </div>
       </div>
     </div>
-  </div>
 </section>
 
 <!-- Call to action Start -->
