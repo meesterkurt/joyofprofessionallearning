@@ -118,7 +118,7 @@ permalink: /
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
-          <img src="img/Cover Confernce.png" />
+          <img src="img/joy-professional-learning-confrences.png" />
           <h4>The Little Black Book of Conferences</h4>
           <p>COMING SOON. </p>
           <a class="btn btn-view-works" href="COMING SOON">Download on iTunes</a>
