@@ -27,7 +27,9 @@ permalink: /contact/
               <i class="fa fa-phone"></i>Phone:+1 484 843 1610
             </li>
           </ul>
-
+       </div>
+     </div>
+</section>
           <ul class="social-icons">
             <li>
               <a href="https://plus.google.com/communities/100048750758797626973"><i class="fa fa-google"></i></a>
@@ -40,10 +42,8 @@ permalink: /contact/
             </li>
             <li>
             <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
-            <li>
+            </li>
           </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+       </div>
+     </div>
 </section>
