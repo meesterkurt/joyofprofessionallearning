@@ -110,7 +110,7 @@ permalink: /
           <img src="img/Cover Games.png" />
           <h4>Games Edition</h4>
           <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challange learners to use games from thier childhood in a new educational way. </p>
-          <a class="btn btn-view-works" href="COMING SOON">Download on iTunes</a>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Coming Soon</a>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
@@ -118,7 +118,7 @@ permalink: /
           <img src="img/joy-professional-learning-confrences.png" />
           <h4>The Little Black Book of Conferences</h4>
           <p>COMING SOON. </p>
-          <a class="btn btn-view-works" href="COMING SOON">Download on iTunes</a>
+          <a class="btn btn-view-works" href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Coming Soon</a>
           </div>
       </div>
     </div>
