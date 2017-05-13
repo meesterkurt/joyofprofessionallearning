@@ -93,7 +93,7 @@ permalink: /
         <div class="service-item">
           <img src="img/Cover Guest Chefs.png" />
           <h4>The Guest Chefs</h4>
-          <p>We have asked "Guest Chefs" from around the world to add their favorite professional learning recipe. </p>
+          <p> We invited 9 "Guest Chefs" from around the world to share their favorite recipe for professional learning. </p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-guest-chefs/id1215839734?mt=11">Download on iTunes</a>
         </div>
       </div>
