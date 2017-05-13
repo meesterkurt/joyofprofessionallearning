@@ -4,7 +4,10 @@ title: Contact us!
 seotitle: Contact the Joy of Professional Learning Team | Joy of Professional Learning
 permalink: /contact/
 ---
-
+</div>
+    <div id="contact-box" class="row">
+      <div class="col-md-6 col-sm-12">
+        <div class="block">
 <!-- Slider Start -->
 <section id="global-header">
   <div class="container">
