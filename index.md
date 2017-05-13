@@ -109,7 +109,7 @@ permalink: /
         <div class="service-item">
           <img src="img/Cover Games.png" />
           <h4>Games Edition</h4>
-          <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challange learners to use games from thier childhood in a new educational way. </p>
+          <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challange learners to use old games transformed in a new educational way. </p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Coming Soon</a>
         </div>
       </div>
