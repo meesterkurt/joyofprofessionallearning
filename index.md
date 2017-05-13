@@ -105,7 +105,6 @@ permalink: /
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-strategies-for-leaders/id1235488390?mt=11">Download on iTunes</a>
         </div>
       </div>
-      </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <img src="img/Cover Games.png" />
@@ -113,8 +112,6 @@ permalink: /
           <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challange learners to use games from thier childhood in a new educational way. </p>
           <a class="btn btn-view-works" href="COMING SOON">Download on iTunes</a>
         </div>
-      </div>
-      </div>
       </div>
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
