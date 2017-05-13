@@ -20,7 +20,7 @@ permalink: /contact/
 </section>
           <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
           <ul class="address-block">
-            <li>
+          <li>
               <i class="fa fa-envelope-o"></i>Email: joyofpl@ictatelier.be
             </li>
             <li>
@@ -42,6 +42,7 @@ permalink: /contact/
             </li>
             <li>
             <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
+            </li>
             </li>
           </ul>
        </div>
