@@ -18,10 +18,6 @@ permalink: /contact/
     </div>
   </div>
 </section>
-    </div>
-    <div id="contact-box" class="row">
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
           <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
           <ul class="address-block">
             <li>
