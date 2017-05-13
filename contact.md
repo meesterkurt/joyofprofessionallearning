@@ -15,7 +15,7 @@ permalink: /contact/
         </div>
      </div>
   <div>
- 
+  
 </section>
           <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
           <ul class="address-block">
@@ -27,11 +27,11 @@ permalink: /contact/
             </li>
           </ul>
        </div>
-     </div>
      
 </section>
           <ul class="social-icons">
             <li>
+             <li>
               <a href="https://plus.google.com/communities/100048750758797626973"><i class="fa fa-google"></i></a>
             </li>
             <li>
