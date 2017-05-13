@@ -15,8 +15,7 @@ permalink: /contact/
         </div>
      </div>
   <div>
-  
-</section>
+  </section>
           <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
           <ul class="address-block">
           <li>
