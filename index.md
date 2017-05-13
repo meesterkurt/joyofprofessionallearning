@@ -1,7 +1,7 @@
 ---
 layout: page
 seotitle: Professional Learning | The Joy of Professional Learning
-meta: The Joy of Professional Learning pulls together a series of recipes to enhance professional learning experiences. 
+meta: The Joy of Professional Learning is a series of books filled with innovative recipes to enhance professional learning experiences. 
 permalink: /
 ---
 
