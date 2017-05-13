@@ -27,8 +27,6 @@ permalink: /contact/
             </li>
           </ul>
        </div>
-     
-</section>
           <ul class="social-icons">
             <li>
              <li>
@@ -43,6 +41,7 @@ permalink: /contact/
             <li>
             <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
             </li>
+           
        </div>
      </div>
 </section>
