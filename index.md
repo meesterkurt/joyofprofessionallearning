@@ -61,7 +61,7 @@ permalink: /
     <div class="row">
       <div class="section-title">
         <h2>Books Available</h2>
-        <p>Below are our top four best sellers. For a full list, <a href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">click here</a></p>
+        <p>Below is the series of books for coaches and professional learing coordiators. To access the books on Mac or iOS go to, <a href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">click here</a></p>
       </div>
     </div>
     <div class="row ">
@@ -69,7 +69,7 @@ permalink: /
         <div class="service-item">
           <img src="img/joy-professional-learning-basics-v1.png" />
           <h4>The Basics - Part One</h4>
-          <p>This book introduces nine basic recipes that are a different approach to current professional learning.</p>
+          <p>This book introduces 9 basic recipes that are a different approach to current professional learning.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-basics-part-one/id1164710031?mt=11">Download on iTunes</a>
         </div>
       </div>
@@ -77,7 +77,7 @@ permalink: /
         <div class="service-item">
           <img src="img/joy-professional-learning-basics-v2.png" />
           <h4>The Basics - Part Two</h4>
-          <p>This book introduces nine more basic recipes that are a different approach to current professional learning.</p>
+          <p>This book introduces 9 more basic recipes that are a different approach to current professional learning.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-the-basics-part-two/id1175094462?mt=11">Download on iTunes</a>
         </div>
       </div>
@@ -85,7 +85,7 @@ permalink: /
         <div class="service-item">
           <img src="img/joy-professional-learning-innovative.png" />
           <h4>Innovative Professional Learning</h4>
-          <p>This book introduces sixteen recipes that are a different and innovative approach to current professional learning.</p>
+          <p>This book introduces 16 recipes that are a different and innovative approach to current professional learning.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning/id1155093835?mt=11">Download on iTunes</a>
         </div>
       </div>
