@@ -119,8 +119,9 @@ permalink: /
           <h4>The Little Black Book of Conferences</h4>
           <p>COMING SOON. </p>
           <a class="btn btn-view-works" href="COMING SOON">Download on iTunes</a>
-        </div>
-      </div>
+         </div>
+     </div>
+    </div>
   </div>
 </section>
 <!-- Call to action Start -->
