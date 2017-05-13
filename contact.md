@@ -42,5 +42,3 @@ permalink: /contact/
             <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
             </li>
        </ul>
-     </div>
-</section>
