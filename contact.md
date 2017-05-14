@@ -14,8 +14,12 @@ permalink: /contact/
           <p>Have questions? Email us at <a href="mailto:joyofpl@ictatelier.be">joyofpl@ictatelier.be</a></p>
         </div>
      </div>
-  <div>
-  </section>
+   </div>
+</div>
+</section>
+<section>
+  <div class="container">
+    <div class="row">
           <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
           <ul class="address-block">
           <li>
@@ -25,7 +29,6 @@ permalink: /contact/
               <i class="fa fa-phone"></i>Phone:+1 484 843 1610
             </li>
           </ul>
-       </div>
           <ul class="social-icons">
             <li>
              <li>
@@ -41,3 +44,6 @@ permalink: /contact/
             <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
             </li>
        </ul>
+       </div>
+     </div>
+   </section>
