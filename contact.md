@@ -19,7 +19,7 @@ permalink: /contact/
 <section>
   <div class="container">
     <div class="row">
-          <h2>Please email us with questions about our services. Share your story and expereince about how you are using our recipes for professional learning on our Facebook page or in our Google Plus Community. We welcome your thoughts</h2>
+          <h2>Please email us with questions about our services. Share your story and experience on our Facebook page or in our Google Plus Community about how our recipes for professional learning are transforming learning. We welcome your thoughts. </h2>
           <ul class="address-block">
             <li>
               <i class="fa fa-envelope-o"></i>Email: joyofpl@ictatelier.be
