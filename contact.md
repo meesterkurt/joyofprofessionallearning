@@ -19,7 +19,7 @@ permalink: /contact/
 <section>
   <div class="container">
     <div class="row">
-          <h2>Let us know how you are using our recipes for professional learning. Share your story and expereince.</h2>
+          <h2>Please email us with questions about our services. Share your story and expereince about how you are using our recipes for professional learning on our Facebook page or in our Google Plus Community. We welcome your thoughts</h2>
           <ul class="address-block">
             <li>
               <i class="fa fa-envelope-o"></i>Email: joyofpl@ictatelier.be
@@ -30,18 +30,18 @@ permalink: /contact/
           </ul>
           <ul class="social-icons">
              <li>
-              <a href="https://plus.google.com/communities/100048750758797626973"><i class="fa fa-google"></i></a>
+              <li>
+              <a href="https://www.facebook.com/joyofpl/?hc_ref=SEARCH"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
               <a href="https://twitter.com/joyofpl?lang=en"><i class="fa fa-twitter"></i></a>
             </li>
             <li>
-              <a href="https://www.facebook.com/joyofpl/?hc_ref=SEARCH"><i class="fa fa-facebook"></i></a>
-            </li>
+              <a href="https://plus.google.com/communities/100048750758797626973"><i class="fa fa-google"></i></a>
             <li>
-            <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
             </li>
-          </ul>
-       </div>
+         </ul>
+      </div>
      </div>
    </section>
