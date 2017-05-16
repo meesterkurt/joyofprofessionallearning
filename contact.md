@@ -11,7 +11,6 @@ permalink: /contact/
       <div class="col-md-12">
         <div class="block">
           <h1>Drop Us A Note</h1>
-          <p>Have questions? Email us at <a href="mailto:joyofpl@ictatelier.be">joyofpl@ictatelier.be</a></p>
         </div>
      </div>
    </div>
