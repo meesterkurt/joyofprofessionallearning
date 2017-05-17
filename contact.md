@@ -43,5 +43,5 @@ permalink: /contact/
             </li>
             <li>
          </ul>
+      </div>
      </div>
- <section>
