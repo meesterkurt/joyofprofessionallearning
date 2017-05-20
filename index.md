@@ -27,7 +27,7 @@ permalink: /
         <div class="block">
           <div class="section-title">
             <h2>For educators, by educators</h2>
-            <p>We have all been professional learning coaches.</p>
+            <p>Our global team is a  group of experienced professional learning coaches.</p>
           </div>
           <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. The recipes represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
