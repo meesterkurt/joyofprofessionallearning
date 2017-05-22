@@ -102,7 +102,7 @@ permalink: /
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <img src="img/Cover Leadership.png" />
-          <h4>Statagies for Leaders</h4>
+          <h4>Strategies for Leaders</h4>
           <p>In this fifth book in our series of professional learning, there are 9 professional learning recipes for leaders with statagies to foster collabroation, communication, and increased workflow.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-strategies-for-leaders/id1235488390?mt=11">Download on iTunes</a>
         </div>
