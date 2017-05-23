@@ -5,4 +5,6 @@ seotitle: Blog posts, Podcasts, news, and more! | Joy of Professional Learning
 date: 2017-03-28 13:32:10 -0800
 cat: blog
 ---
-Next Post
+<div>
+ Learn about our consulting services for professional learning by contacting us at joyofpl@ictatelier.be
+<div>
