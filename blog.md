@@ -1,7 +1,7 @@
 ---
 layout: individual
 title: Blog
-seotitle: JPL Blog | Joy of Professional Learning
+seotitle: JoyofPL Blog | Joy of Professional Learning
 permalink: /blog/
 img: blog-hero
 ---
