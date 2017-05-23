@@ -20,12 +20,7 @@ img: blog-hero
     <div>
   <div>
 <div>
-  <p> We are also hosting the iTools Academy workshop and a Learning with Apple Distinguished Educators: Enhancing Creativity and Content Creation playground. <a href="https://conference.iste.org/2017/program/search/detail_presenter.php?id=108114820">ISTE Workshops</a>
-      <div>
-    <div>
-  <div>
-<div>
-   <p> Meet our team and hear more about how we use Apple Technology to create content and enhance creativity.
+  <p> We are also hosting the iTools Academy workshop and a Learning with Apple Distinguished Educators: Enhancing Creativity and Content Creation playground. <a href="https://conference.iste.org/2017/program/search/detail_presenter.php?id=108114820">ISTE Workshops</a>  Meet our team and hear more about how we use Apple Technology to create content and enhance creativity.
     {{ post.content | strip_html | truncatewords: 50 }}
   <p>
       <div>
