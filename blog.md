@@ -9,7 +9,7 @@ img: blog-hero
 {% for post in site.posts %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.ISTE2017 }}</a>
-  <p class="post-date">{{ post.May 25 | date_to_long_string }}</p>
+  <p class="post-date">{{ post.May | date_to_long_string }}</p>
   <p>We are so excited to be hosting our first @joyofpl workshop on creating professional learning for Back to School. We have invited coaches, principals, curriculum coordinators, professional development coordinators and other school leaders to join us to first experience professional learning  then design a professional learning plan aligned to district wide goals. We have used this personalized planning design for back to school professional learning with school leaders around the world. The plan extends to year long learning events through thoughtful consideration of the whole school mission. 
       <div>
     <div>
@@ -31,8 +31,8 @@ img: blog-hero
 
 {% for post in site.posts %}
 <div class="post-area">
-  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
-  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.New Book for Leaders }}</a>
+  <p class="post-date">{{ post.June | date_to_long_string }}</p>
   <p>Our new book for leaders was released this week.
 Our newest edition to the Joy of Professional Learning Book Series is in the store! This book challenged our team to think about leaders as learners and how our experiences as coaches can inspire leadership teams to embrace new ways to enhance workflow and save time. How we can include our leaders are learners too.
 Thank you Camilla Gagliolo Cheryl Davis Johan Andersson Marjan Van de Vrie Jason Kathman Katie Willis Morrow and Kurt Klynen for your hard work, vision, and practical ideas.
@@ -44,7 +44,7 @@ We have arrived.
     <div>
   <div>
 <div>
-<p>Registration is open: <a href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-strategies-for-leaders/id1235488390?mt=11">Recipes for Designing Professional Learning</a>
+<p>Grab a copy of our new book for leaders: <a href="https://itunes.apple.com/us/book/the-joy-of-professional-learning-strategies-for-leaders/id1235488390?mt=11">Recipes for Designing Professional Learning</a>
  <div>
     {{ post.content | strip_html | truncatewords: 50 }}
       <div>
