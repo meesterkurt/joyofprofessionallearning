@@ -28,7 +28,10 @@ img: blog-hero
   <div>
 <div>
 {% endfor %}
-
+      <div>
+    <div>
+  <div>
+<div>
 {% for post in site.posts %}
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.New Book for Leaders }}</a>
