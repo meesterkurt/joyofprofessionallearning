@@ -5,7 +5,7 @@ title: Back to School Workshop at ISTE 2017
 seotitle: Back to School &amp; iTools Academy Workshops at ISTE 2017 | Joy of Professional Learning
 date: 2017-05-23 13:32:10 -0800
 cat: blog
-permalink:/blog/jpl-workshop-iste/
+permalink: /blog/jpl-workshop-iste/
 
 ---
 
