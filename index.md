@@ -1,7 +1,7 @@
 ---
 layout: page
 seotitle: Professional Learning | The Joy of Professional Learning
-meta: The Joy of Professional Learning is a series of books filled with innovative recipes to enhance professional learning experiences. 
+meta: The Joy of Professional Learning is a series of books filled with innovative ways or "recipes" to enhance professional learning experiences. 
 permalink: /
 ---
 
@@ -111,7 +111,7 @@ permalink: /
         <div class="service-item">
           <img src="img/Cover Games.png" />
           <h4>Games Edition</h4>
-          <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challange learners to use old games transformed in a new educational way.</p>
+          <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challenge learners to use old games transformed in a new educational way.</p>
           <a class="btn btn-view-works" href="https://itunes.apple.com/us/author/christine-klynen/id1155095017?mt=11">Coming Soon</a>
         </div>
       </div>
@@ -147,7 +147,7 @@ permalink: /
     <div class="row">
       <div class="section-title text-center">
         <h2>Fun Facts About Us</h2>
-        <p>From performance of our campaigns to the success of our agency.</p>
+        <p></p>
       </div>
     </div>
     <div class="row">
