@@ -7,7 +7,7 @@ cat: blog
 permalink: /blog/jpl-etsy-store/
 ---
 
-Our new @joyofpl games and planning coaster are now available in our Etsy Store. Grab a set of App Dice or our new #HashtagEDU game to engage teachers in innovative practices. Start your back to school professional learning plan with our new coasters for ideation. We are bringing joy back to learning! 
+Our new @joyofpl games and planning coaster are now available in our Etsy Store. Grab a set of App Dice or our new #HashtagEDU game to engage teachers in reimaging learning. Start your back to school professional learning plan with our new coasters for ideation. We are bringing joy back to learning! 
 
 Visit our SquarePeg shop on Etsy - <a href="https://www.etsy.com/shop/bethesquarepeg?ref=seller-platform-mcnav">SquarePeg on Etsy</a>
 
