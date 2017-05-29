@@ -11,4 +11,6 @@ Our new @joyofpl games and planning coaster are now available in our Etsy Store.
 
 Visit our SquarePeg shop on Etsy <a href="https://www.etsy.com/shop/bethesquarepeg?ref=seller-platform-mcnav">SquarePeg on Etsy</a>
 
-Come play with us at ISTE during our Recipes for Designing Professional Learning workshop and Learning with Apple Distinguished Educators: Enhancing Creativity and Content Creation playground. <a href="https://conference.iste.org/2017/program/search/detail_session.php?id=108675817">ISTE Workshops</a>  Meet our team and hear more about how we use Apple Technology to bring joy back to learning by enhancing creativity.
+Come play with us at ISTE during our Recipes for Designing Professional Learning workshop and Learning with Apple Distinguished Educators: Enhancing Creativity and Content Creation playground. <a href="https://conference.iste.org/2017/program/search/detail_session.php?id=108675817">SIGN UP NOW for ISTE Workshops</a>  
+
+Meet our team and hear more about how we use Apple Technology to bring joy back to learning by enhancing creativity.
