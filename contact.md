@@ -42,9 +42,6 @@ permalink: /contact/
             <li>
               <a href="https://www.instagram.com/thejoyofpl/"><i class="fa fa-instagram"></i></a>
             <lin>
-            <li>
-              <a href="https://www.etsy.com/shop/bethesquarepeg?ref=seller-platform-mcnav/"><i class="fa fa-etsy"></i></a>
-            <li>
          <div>
       <div>
   </div>
