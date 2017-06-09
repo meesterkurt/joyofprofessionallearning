@@ -107,7 +107,7 @@ header .navbar-default .navbar-nav li a:hover {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 85% 0%;
+  background-position: 25% 0%;
   padding: 80px 0 120px 0;
   position: relative;
 }
