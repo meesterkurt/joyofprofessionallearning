@@ -112,7 +112,7 @@ permalink: /
           <img src="img/Cover Games.png" />
           <h4>Games Edition</h4>
           <p>In this sixth book in our series of professional learning, there are 9 professional learning recipes that challenge learners to use old games transformed in a new educational way.</p>
-          <a class="btn btn-view-works" href="https://itun.es/us/ytQqkb.l">NEW BOOK LAUNCED TODAY! Download on iTunes</a>
+          <a class="btn btn-view-works" href="https://itun.es/us/ytQqkb.l"> *NEW Download on iTunes</a>
         </div>
       </div>
       <div class="col-sm-6 col-md-3">
