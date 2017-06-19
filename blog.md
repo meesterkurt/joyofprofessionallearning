@@ -1,6 +1,6 @@
 ---
 layout: individual
-title: Blog
+title: Stories of Professional Learning
 seotitle: JoyofPL Blog | Joy of Professional Learning
 permalink: /blog/
 img: blog-hero
