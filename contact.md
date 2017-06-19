@@ -30,7 +30,6 @@ permalink: /contact/
           </ul>
           <ul class="social-icons">
              <li>
-             <li>
               <a href="https://www.facebook.com/joyofpl/?hc_ref=SEARCH"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
