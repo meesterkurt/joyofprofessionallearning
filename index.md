@@ -9,7 +9,7 @@ permalink: /
 <section id="slider">
   <div class="container">
     <div class="row">
-      <div class="col-md-10 col-md-offset-2">
+      <div class="col-md-10 col-md-offset-1">
         <div class="block">
           <h1 class="animated fadeInUp"> The Joy of<br>Professional<br>Learning</h1>
           <p class="animated fadeInUp">Professional learning is inspirational and engaging. That’s why we designed different recipes clearly outlining the time, tools, and ingredients to inspire you to cook up delicious learning activities for teachers and leaders.</p>
@@ -32,14 +32,14 @@ permalink: /
           <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. The recipes represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
           <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.<p>Let us lead your professional learning days beginning with thoughtful planning and collaboration. We start with why, then what if, and how design elements to enhance professional learning around mission, vision and goals.</p>  
+          <p><a href="/about/">Meet Our Team</a></p>
         </div>
-        <p><a href="/about/">Meet Our Team</a></p>
-      </div><!-- .col-md-7 close -->
+      </div>
       <div class="col-md-5 col-sm-12">
         <div class="block">
-          <img src="img/Logo Guests.png" alt="Img">
+          <img src="img/logo-guests.png" alt="Joy of Professional Learning Guest Book Logo">
         </div>
-      </div><!-- .col-md-5 close -->
+      </div>
     </div>
   </div>
 </section>
