@@ -12,7 +12,7 @@ img: featue-about-bg
 <section id="portfolio-work">
     <div class="container">
         <div class="row">
-          <div class="col-md-12">
+          <div class="col-sm-12 .col-md-offset-3 col-md-6 ">
             <div class="block">
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
