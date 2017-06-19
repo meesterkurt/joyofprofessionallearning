@@ -116,6 +116,7 @@ header .navbar-default .navbar-nav li a:hover {
 background-color: rgba(255,255,255,.6);
 padding: 2em;
 color: #333;
+text
 }
 #slider .block h1 {
   font-family: 'tilden-sans-light', sans-serif;
@@ -388,7 +389,8 @@ color: #333;
   color: #E3E3E4;
   margin: 0 auto;
   padding-left: 90px;
-  text-align: center;
+  text-align: left;
+  width: 50%;
 }
 #global-header .block h1 {
   font-weight: 100;
