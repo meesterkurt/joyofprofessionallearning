@@ -372,6 +372,7 @@ text
   padding-bottom: 300px;
   position: relative;
   background-attachment: fixed;
+  background-position: 85% 0%;
 }
 #global-header:before {
   content: "";
