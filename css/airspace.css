@@ -232,7 +232,7 @@ color: #333;
 #feature {
   background: url("../img/featue-bg.jpg");
   background-position: 40% 84px;
-  width: 60%;
+  width: 100%;
   display: block;
   position: relative;
   overflow: visible;
