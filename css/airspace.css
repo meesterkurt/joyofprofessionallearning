@@ -404,6 +404,9 @@ color: #333;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
+
+#global-header .social-icons i {color:#fff;}
+
 /*--
 	portfolio-work Start
 --*/
