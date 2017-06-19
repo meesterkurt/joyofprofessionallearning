@@ -1,7 +1,7 @@
 ---
 layout: page
 seotitle: Professional Learning | The Joy of Professional Learning
-meta: The Joy of Professional Learning is a series of books filled with innovative ways or "recipes" to enhance professional learning experiences. 
+meta: The Joy of Professional Learning is a series of books filled with innovative ways or "recipes" to enhance professional learning experiences.
 permalink: /
 ---
 
@@ -31,7 +31,7 @@ permalink: /
           </div>
           <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. The recipes represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
-          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.<p>Let us lead your professional learning days beginning with thoughtful planning and collaboration. We start with why, then what if, and how design elements to enhance professional learning around mission, vision and goals.</p>  
+          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.<p>Let us lead your professional learning days beginning with thoughtful planning and collaboration. We start with why, then what if, and how design elements to enhance professional learning around mission, vision and goals.</p>
           <p><a href="/about/">Meet Our Team</a></p>
         </div>
       </div>
@@ -43,7 +43,7 @@ permalink: /
     </div>
   </div>
 </section>
-
+<!-- Feature Start -->
 <section id="feature">
   <div class="container">
     <div class="row">
@@ -54,7 +54,6 @@ permalink: /
     </div>
   </div>
 </section>
-
 <!-- Service Start -->
 <section id="service">
   <div class="container">
@@ -126,7 +125,6 @@ permalink: /
       </div>
     </div>
 </section>
-
 <!-- Call to action Start -->
 <section id="call-to-action">
   <div class="container">
@@ -201,13 +199,11 @@ permalink: /
                 <p>"Working in teacher training and further education it is often difficult to get books that are relevant to my teaching environment but these books easily adapt and I look forward to seeing new releases by the Joy of Professional Learning team."</p>
                 <div class="user">
                   <img src="img/item-img2.jpg" alt="Pepole">
-                  <p><span>Miriam Walsh</span> Cork Education and Training Board
-</p>
+                  <p><span>Miriam Walsh</span> Cork Education and Training Board</p>
                 </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
+    </div>            
 </section>
