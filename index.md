@@ -31,8 +31,8 @@ permalink: /
           </div>
           <p>The Joy of Professional Learning introduces recipes for learning, a different approach to current professional development. The recipes represent what a global community of educators has learned over more than a hundred years of combined experience in education.</p>
           <p>When you create your school’s professional learning events, you integrate professionalism, sustainability, relevance, interactivity, and classroom examples that support a personal learning experience for every teacher and leader.</p>
-          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.</p>
-          <p>Let us lead your professional learning days beginning with thoughtful planning and collaboration. We start with why, then what if, and how design elements to enhance professional learning around mission, vision and goals. <p>
+          <p>We also know that it takes great educators like you to make this happen. It takes vision and a tribe. It takes planning - what to do tomorrow and what to do throughout the year to keep ongoing professional learning a vibrant part of the school culture.<p>Let us lead your professional learning days beginning with thoughtful planning and collaboration. We start with why, then what if, and how design elements to enhance professional learning around mission, vision and goals. <p> 
+          </p>  
         </div>
         <p><a href="/about/">Meet Our Team</a></p>
       </div><!-- .col-md-7 close -->
