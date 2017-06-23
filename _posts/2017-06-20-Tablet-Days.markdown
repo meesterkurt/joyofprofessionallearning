@@ -1,3 +1,12 @@
+2017-05-25-recipes-designing-professional-learning-release.---
+layout: post
+title: Tablet Days
+seotitle: Come join Christine and Kurt Klynen at the Tablet Days conference and hear about the Joy of Professional Learning.
+date: 2017-06-23 8:32:10 -0800
+cat: blog
+permalink: /blog/tablet-days/
+
+
 "We are always a Diad: half teacher half student. Our goal must always be to become hopelessly curious to a broader scope of our world than the mere limitations of our vertical career.” - Jay Abraham.
 
 We were invited to the first Tablet Days conference in Switzerland inspired entirely by our books. 
