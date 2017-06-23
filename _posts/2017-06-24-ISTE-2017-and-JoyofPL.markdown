@@ -1,4 +1,3 @@
-2017-06-24-recipes-designing-professional-learning-release.---
 layout: post
 title: ISTE 2017 and JoyofPL
 seotitle: Come join Christine and Kurt Klynen , Cheryl Davis, Camilla Gagliolo and Katie Morrow at the ISTE 2017 conference and learn more about the Joy of Professional Learning.
