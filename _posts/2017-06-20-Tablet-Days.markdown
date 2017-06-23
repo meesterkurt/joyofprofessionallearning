@@ -5,6 +5,7 @@ seotitle: Come join Christine and Kurt Klynen at the Tablet Days conference and 
 date: 2017-06-23 8:32:10 -0800
 cat: blog
 permalink: /blog/tablet-days/
+author: Christine Klynen
 ---
 
 > We are always a Diad: half teacher half student. Our goal must always be to become hopelessly curious to a broader scope of our world than the mere limitations of our vertical career.” - Jay Abraham.
