@@ -9,4 +9,5 @@ The conference featured Kurt as the Keynote Speaker. His presentation to an audi
 <img src="/img/KurtKlynenTD1.JPG" alt="Kurt Klynen">  
 
 The sessions at the conference were all titled "The Joy of Professional Learning" and each guided by a recipe.
+
 It is magical to see our books come to life. We love seeing teachers have a renewed love of learning and how that translates to a new level of excitement in the classroom. 
