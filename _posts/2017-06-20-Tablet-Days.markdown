@@ -1,5 +1,4 @@
 ---
-2017-05-25-recipes-designing-professional-learning-release.---
 layout: post
 title: Tablet Days
 seotitle: Come join Christine and Kurt Klynen at the Tablet Days conference and hear about the Joy of Professional Learning.
@@ -13,9 +12,11 @@ permalink: /blog/tablet-days/
 We were invited to the first Tablet Days conference in Switzerland inspired entirely by our books. 
 
 Christine kicked off the conference with the first of 15 Showcases (1 in 3), highlighting how "Joy is the engine of growth." Bruce Mau, The Third Teacher
+
 <img src="/img/Christine2 1in3.JPG" alt="Christine Klynen">
         
 The conference featured Kurt as the Keynote Speaker. His presentation to an audience of a few hundred educators focused on "Raising the Bar for Professional Learning" with a strong message on teachers are learners first.
+
 <img src="/img/KurtKlynenTD1.JPG" alt="Kurt Klynen">  
 
 The sessions at the conference were all titled "The Joy of Professional Learning" and each guided by a recipe.
