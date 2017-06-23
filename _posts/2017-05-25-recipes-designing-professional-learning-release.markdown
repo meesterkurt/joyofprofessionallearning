@@ -10,7 +10,7 @@ A new book for leaders was released this week.
 
 Our newest edition to the Joy of Professional Learning Book Series is in the store! This book challenged our team to think about leaders as learners and how our experiences as coaches can inspire leadership teams to embrace new ways to enhance workflow and save time. How we can include our leaders are learners too.
 
-Thank you Camilla Gagliolo Cheryl Davis Johan Andersson Marjan Van de Vrie Jason Kathman Katie Willis Morrow and Kurt Klynen for your hard work, vision, and practical ideas.
+Thank you Camilla Gagliolo, Cheryl Davis, Johan Andersson, Marjan Van de Vrie, Jason Kathman, Katie Willis Morrow, and Kurt Klynen for your hard work, vision, and practical ideas.
 
 As Seth Godin wrote this week, 
 
