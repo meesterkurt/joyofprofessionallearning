@@ -128,13 +128,13 @@ header .navbar-default .navbar-nav li a:hover {
   font-size: 40px;
   line-height: 1.5em;
   letter-spacing: .05em;
-  text-align: center;
+  text-align: left;
   text-shadow: 1px 1px rgba(255,255,255,.1)
 }
 #slider .block p {
   font-size: 18px;
   font-family: 'tilden-sans-light', sans-serif;
-  text-align: center;
+  text-align: left;
   line-height: 1.5em;
 }
 /*--
