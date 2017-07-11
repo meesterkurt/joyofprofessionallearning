@@ -16,6 +16,7 @@ We are here at ISTE and it’s an exciting time for The Joy of Professional Lear
 And we are so fortunate to have 3 (1) hours sessions being featured by Apple. From the start of our project at the Apple Distinguished Educator Institute in Berlin to our big splash at ISTE, our mission is to change professional development to professional learning. <http://education-static.apple.com/iste/index.html>  Join the conversation on Twitter SNAP.SHARE.FOLLOW #FortheLoveofLearning
 
 Christine Klynen's 1 in 3 story showcases the need for changing professionl development and bring joy back to learning.
+(photo by: Christopher Tully)
 <img src="/img/Christine1in3.JPG" alt="1 in 3 story">
 
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
