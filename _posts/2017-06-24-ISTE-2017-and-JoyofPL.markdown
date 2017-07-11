@@ -13,6 +13,8 @@ We are here at ISTE and it’s an exciting time for The Joy of Professional Lear
 
 <img src="/img/methodkit.JPG" alt="Method Kit Planning">
 
-And we are so fortunate to have 3 (1) hours sessions being featured by Apple. From the start of our project at the Apple Distinguished Educator Institute in Berlin to our being splash at ISTE, our mission  is to change professional development to professional learning. <http://education-static.apple.com/iste/index.html>  Join the conversation on Twitter SNAP.SHARE.FOLLOW #FortheLoveofLearning
+And we are so fortunate to have 3 (1) hours sessions being featured by Apple. From the start of our project at the Apple Distinguished Educator Institute in Berlin to our big splash at ISTE, our mission is to change professional development to professional learning. <http://education-static.apple.com/iste/index.html>  Join the conversation on Twitter SNAP.SHARE.FOLLOW #FortheLoveofLearning
+
+Christine Klynen's 1 in 3 story showcases the need for changing professionl development and bring joy back to learning.
 
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
