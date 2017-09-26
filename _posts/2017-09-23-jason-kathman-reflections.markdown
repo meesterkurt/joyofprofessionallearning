@@ -16,6 +16,6 @@ I ended the speed dating early because of my mistake.
 As I reflected at the end of the day, I realized that the easy answer was to change the two lines into two circles, one inside the other. I still love the idea of placing a topic between the participants. I’ll just make sure to use a circle instead of lines next time.
 
 
-<img src="/img/SpeedDating.JPG" alt="Speed Dating">
+<img src="/img/SpeedDating.jpg" alt="Speed Dating">
 
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we using recipes to inspire leaders and teachers! Share your recipe stories with us!
