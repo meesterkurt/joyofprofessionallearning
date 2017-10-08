@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Role Play Cards for JoyofPLon ETSY
+title: Team Role Play Cards for JoyofPL on ETSY
 seotitle: We added our new role play card to our Etsy Shop. Grab a deck and accept the challenge to form your team by drawing a crd from the deck. Who will you be?
 date: 2017-10-08 12:32:10 -0800
 cat: blog
