@@ -8,14 +8,6 @@ permalink: /blog/Team Role Cards/
 author: Christine Klynen
 ---
 
-2017-10-08-recipes-designing-professional-learning-release.---
-layout: post
-title: ETSY Team Role Play and JoyofPL
-seotitle: Visit our Etsy store to pick up some fun Games to compliment our the Joy of Professional Learning Books.
-date: 2017-06-24 8:32:10 -0800
-cat: blogg5cecrr iffy
-permalink: /blog/ETSY-SHOP-2017/
-
 The Team Role Cards are a compliment to our Joy of Professional Learning Book Series. This game challenges you to move a team forward when faced with a new challenge. 
 
 The cards can be used in the classroom for group work to enhance collaboration or with your team of professionals to accelerate a project. 
