@@ -18,6 +18,6 @@ The cards come packaged in a beautiful tin for safe keeping.
 
 Be who you chose!
 
-<https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000>
+Grab a set of our new Team Role Play Cards on etsy: [Team Role Play Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
 
 <img src="/img/TeamRolePlay.JPG" alt="Team Role Play Cards on Etsy">
