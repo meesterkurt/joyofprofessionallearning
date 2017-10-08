@@ -26,4 +26,4 @@ The cards come packaged in a beautiful tin for safe keeping.
 
 Be who you chose!
 
-https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000
+<https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000>
