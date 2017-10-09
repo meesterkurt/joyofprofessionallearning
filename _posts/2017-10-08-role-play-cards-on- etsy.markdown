@@ -24,6 +24,6 @@ The cards are in a beautiful tin box for safe keeping.
 
 Be who you chose!
 
-Vist our Etsy shop to get a set of our new cards for EDU: [Team Role Play Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
+Vist our Be the Square Peg Etsy shop to get a set of our new cards for EDU: [Team Role Play Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
 
 <img src="/img/TeamRolePlay.JPG" alt="Team Role Play Cards on Etsy">
