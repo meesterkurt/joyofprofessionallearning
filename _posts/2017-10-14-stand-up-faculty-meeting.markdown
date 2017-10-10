@@ -43,7 +43,7 @@ If someone misses the standup meeting someone will make sure that the missing me
 
 The stand up ends when the time keep calls time
 
-What we learned about the 15 minute Faculty Meeting is that it really is the calibration of relationships, the camaraderie of the team, and the chance to bring joy, laughter, and a sense of all working together toward the common purpose.
+What we learned about the 15 minute Stand up Faculty Meeting is that it really is calibrating relationships, camaraderie, our sense of belonging, our tribe, a time a place to safely express a frustioation, and the chance to bring joy, laughter, and a common purpose  as work together toward our greater goals. 
 
 To learn more, contact us.
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
