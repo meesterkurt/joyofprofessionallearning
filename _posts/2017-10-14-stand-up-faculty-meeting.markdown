@@ -13,7 +13,7 @@ The new 15 minute Faculty Meeting - The Stand Up
 When I first read Scrum How to Twice the Work in Half the Time by Jeff Sutherland, I was intrigued by the process developers use to move a project forward. I thought about how this would be wonderful way to replace the hour-long once a month faculty meeting. I suggested we give it a try have a weekly standup meeting. We tried our first standup meeting in 2013 with our administrative team and then our high school faculty.   We never looked back and the Stand Up became the faculty meeting.
 
 <img src="/img/standupmeeting.jpg" alt="Stand Up Faculty Meeting">
-
+-----
 The RULES of the Standup: 
 
 Be true to the mission
@@ -29,6 +29,7 @@ Everyone stands in the circle. (Standing makes it slightly uncomfortable and ens
 If any member in the standup has questions, concerns or roadblocks that someone else can help with then the scrum master will ask for that team to take the conversation off-line. Off-line means if it does not involve the entire group
 
 The meeting is not mandatory but strongly encouraged
+-----
 
 To START the Meeting:
 
