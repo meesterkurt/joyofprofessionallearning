@@ -20,6 +20,6 @@ Alternating from side to side, we moved the mic at each buzzer.
 Participants in the audience got to hear a 30 second pitch for every session that promoted more than simply the descriptions in the program. 
 At the conclusion of the Session Smackdown we declared everyone a winner as they were all now able to attend the rest of the event with more certainty that they were selecting the best sessions for their professional learning needs. 
 
-<img src="/img/Smackdown2.jpg" alt="Smackdown Google Slides">
+<img src="/img/Smackdown2.png" alt="Smackdown Google Slides">
 
 See how we used Google Slides to facilate the Smackdown: [Smackdown Slides](https://docs.google.com/presentation/d/12gkeA3bWxozbGVfSoVjNuwwb2x4-aevXSltaorlpkP8/edit?usp=sharing)
