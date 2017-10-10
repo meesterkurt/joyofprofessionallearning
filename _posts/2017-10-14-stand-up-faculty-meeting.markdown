@@ -1,4 +1,3 @@
-blog post html
 ---
 layout: post
 title: The New 15 Minute Faculty Meeting - The Stand Up
