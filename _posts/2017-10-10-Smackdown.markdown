@@ -2,7 +2,7 @@
 layout: post
 title: Personalized Professional Learning and the Smackdown
 seotitle: Personalized Professional Learning Smackdown
-date: 2017-10-24 8:32:10 -0800
+date: 2017-10-10 8:32:10 -0800
 cat: blog
 permalink: /blog/The Smackdown Kickoff/
 author: Katie Morrow
