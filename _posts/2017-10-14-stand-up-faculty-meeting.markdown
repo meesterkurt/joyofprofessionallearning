@@ -2,7 +2,7 @@
 layout: post
 title: The New 15 Minute Faculty Meeting - The Stand Up
 seotitle: Twice the Work in Half the Time
-date: 2017-10-24 8:32:10 -0800
+date: 2017-10-14 8:32:10 -0800
 cat: blog
 permalink: /blog/Stand Up Faculty Meeting/
 author: Christine Klynen
