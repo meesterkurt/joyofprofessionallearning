@@ -29,9 +29,9 @@ Everyone stands in the circle. (Standing makes it slightly uncomfortable and ens
 If any member in the standup has questions, concerns or roadblocks that someone else can help with then the scrum master will ask for that team to take the conversation off-line. Off-line means if it does not involve the entire group
 
 The meeting is not mandatory but strongly encouraged
------
 
 To START the Meeting:
+-----
 
 The timekeeper sets the clock for 15 minutes
 
@@ -42,10 +42,8 @@ Each member of the faculty goes around the circle to share something about their
 If someone misses the standup meeting someone will make sure that the missing member knows what happened in standup
 
 The stand up ends when the time keep calls time
-———
 
 What we learned about the 15 minute Faculty Meeting is that it really is the calibration of relationships, the camaraderie of the team, and the chance to bring joy, laughter, and a sense of all working together toward the common purpose.
 
-To learn more, visit our website www.joyofprofessionallearning.com or contact us at joyofpl@ictatelier.be 
+To learn more, contact us.
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
-
