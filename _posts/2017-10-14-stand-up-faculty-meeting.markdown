@@ -41,9 +41,9 @@ The timekeeper sets the clock for 15 minutes
 
 The administrator AKA The Scrum Master starts the meeting with announcements. The need to knows
 
-Each member of the faculty goes around the circle to share something about their day or passes with "I had a good day". The share can be a win, the challenge, an announcement, a what if
+Each member of the faculty goes around the circle to share something about their day or passes with "I had a good day". The share can be a win, a challenge, an announcement, a what if...
 
-If someone misses the standup meeting someone will make sure that the missing member knows what happened in standup
+If someone misses the standup meeting someone else will make sure that the missing member knows what happened in standup
 
 The stand up ends when the time keep calls time
 
