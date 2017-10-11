@@ -1,3 +1,4 @@
+---
 layout: post
 title: Showcase your story
 seotitle: Showcase your Story in 3 minutes, the pitch.
