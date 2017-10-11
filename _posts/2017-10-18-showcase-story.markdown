@@ -21,7 +21,7 @@ I challenge you to bring back the joy in professional learning with us. 
 That is the story I told the people at the iScholendag, just within 3 minutes. 
 
 Marjan
-<img src="/img/MarjanSHowcase.jpg" alt="Showcase">
+<img src="/img/MarjanShowcase.jpg" alt="Showcase">
 
 To learn more, visit our website www.joyofprofessionallearning.com or contact us at joyofpl@ictatelier.be 
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
