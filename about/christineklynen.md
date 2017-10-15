@@ -10,9 +10,11 @@ img: about-christineklynen
 ---
 Innovator. Leader. Joy of Professional Learning Consultant. Author. Vision Former. Teacher. ADE. GoolgeET. Disrupter. 
 
-Passion drives us. I am a Professional Learning Coach/Consultant. My passion is my talent. 
+Passion drives us and my passion for learning is my talent.
 
-I am passionate about leading teams in planning professional learning strategies around school district yearly vision and goals. Together we can create learning experiences that are focused on new ways to teach and learn, centered on the district's mission that enhances engagement and helps make learning more relevant. Learning for teachers and leaders should model the expectations for active personalized learning in the classroom. 
+I am a professional learning coach/consultant. 
+
+Passionate about leading teams in planning professional learning strategies around school district yearly vision and goals so that together we can create learning experiences that are focused on best practices. Our work together is centered on the district's mission to enhance engagement and  make learning more relevant. Learning for teachers and leaders should model the expectations for active personalized learning we expect for our students.
 
 I am passionate about designing and delivering professional learning. As an innovation and instructional technology coach, and teacher in 1 to 1 schools I am a leader in planning and delivering professional learning. This work has been the driving force of my career. 
 
