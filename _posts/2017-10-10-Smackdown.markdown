@@ -8,6 +8,7 @@ permalink: /blog/The Smackdown Kickoff/
 author: Katie Morrow, USA
 img: Smackdown2
 ---
+
 Often when attending a workshop, participants are faced with an overwhelming program of possibilities, each with perhaps just a short description from which to make their choices. 
 
 How can one best select their professional learning path? 
