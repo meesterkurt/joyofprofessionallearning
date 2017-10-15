@@ -8,7 +8,6 @@ permalink: /blog/Stand Up Faculty Meeting/
 author: Christine Klynen
 img: Stand Up Faculty Meeting
 ---
-
 The new 15 minute Faculty Meeting - The Stand Up
 ------
 When I first read "Scrum How to Twice the Work in Half the Time" by Jeff Sutherland, I was intrigued by the process developers use to move a project forward. I thought about how this would be a good way to replace the long end of the day, once a month faculty meeting. My why is relationships. 
@@ -52,5 +51,9 @@ What we learned about the 15 minute Stand up Faculty Meeting is that it is about
 
 Three years later, it is a rare occasion that someone misses the Stand Up.
 
-To learn more, contact us.
-Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we are helping teachers be learners first! 
+By
+[Christine]({{ site.baseurl }}/about/christineklynen/)
+
+To learn more, contact us at joyofpl@ictatelier.be 
+
+Follow us on [Twitter](https://twitter.com/joyofpl) and [Facebook](https://www.facebook.com/joyofpl/) to see how we are helping teachers be learners first! 
