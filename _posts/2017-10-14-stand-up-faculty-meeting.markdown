@@ -6,15 +6,16 @@ date: 2017-10-14 8:32:10 -0800
 cat: blog
 permalink: /blog/Stand Up Faculty Meeting/
 author: Christine Klynen
+img: Stand Up Faculty Meeting
 ---
 
 The new 15 minute Faculty Meeting - The Stand Up
 ------
-When I first read "Scrum How to Twice the Work in Half the Time" by Jeff Sutherland, I was intrigued by the process developers use to move a project forward. I thought about how this would be a good way to replace the long end of the day, once a month faculty meeting. My why is relationships. I know that no good work happens in isolation. These would be the meetings that foster relationship building, collaboration and ultimately become a better use of time. Everyone has 15 minutes. 
+When I first read "Scrum How to Twice the Work in Half the Time" by Jeff Sutherland, I was intrigued by the process developers use to move a project forward. I thought about how this would be a good way to replace the long end of the day, once a month faculty meeting. My why is relationships. 
+
+I know that no good work happens in isolation. These would be the meetings that foster relationship building, collaboration and ultimately become a better use of time. Everyone has 15 minutes. 
 
 So I suggested we give it a try. We had our first standup meeting in 2013 with our administrative team as practice. It was so effective and sucessfull that we implemeted it with our high school faculty. We never looked back and the Stand Up became and still is to this day, the faculty meeting.
-
-<img src="/img/standupmeeting2.jpg" alt="Stand Up Faculty Meeting">
 
 Get started by following these simple suggestions:
 
