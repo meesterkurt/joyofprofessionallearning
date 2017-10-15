@@ -6,7 +6,7 @@ date: 2017-10-14 8:32:10 -0800
 cat: blog
 permalink: /blog/Stand Up Faculty Meeting/
 author: Christine Klynen
-img: Stand Up Faculty Meeting
+img: standupmeeting2
 ---
 The new 15 minute Faculty Meeting - The Stand Up
 ------
