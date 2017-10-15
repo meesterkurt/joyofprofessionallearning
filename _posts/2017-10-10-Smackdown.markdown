@@ -5,7 +5,7 @@ seotitle: Personalized Professional Learning Smackdown
 date: 2017-10-10 8:32:10 -0800
 cat: blog
 permalink: /blog/The Smackdown Kickoff/
-author: Katie Morrow
+author: Katie Morrow, USA
 img: Smackdown2
 ---
 Often when attending a workshop, participants are faced with an overwhelming program of possibilities, each with perhaps just a short description from which to make their choices. 
