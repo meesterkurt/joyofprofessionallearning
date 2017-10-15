@@ -6,6 +6,7 @@ date: 2017-10-08 12:32:10 -0800
 cat: blog
 permalink: /blog/Team Role Cards/
 author: Christine Klynen
+img:TeamRolePlay
 ---
 
 Our team is the biggest factor in keeping our JoyofPL Project chugging along. Each one of us has talents that are necessary to the success of the team, our love for professional learning and that keep the passion for our project alive. Kurt designed these Team Role Cards because he could see in each of us the important roles we play. 
@@ -25,5 +26,3 @@ The cards come in a beautiful tin box for safe keeping.
 Be who you chose!
 
 Vist our Be the Square Peg Etsy shop to get a set of our new cards for EDU: [Team Role Play Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
-
-<img src="/img/TeamRolePlay.JPG" alt="Team Role Play Cards on Etsy">
