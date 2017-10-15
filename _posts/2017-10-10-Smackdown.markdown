@@ -17,8 +17,6 @@ In order to facilitate more personalized, better informed professional learning 
 
 Using a Smackdown format (Book 3, Joy of Innovative Professional Learning, page 12) for a whole group opening session was the perfect way to kickoff a day long conference with joy!
 
-<img src="/img/Smackdown1.jpg" alt="The Referees">
-
 First I created a Google Slides presentation and shared it will all presenters so that they could add content to their session's individual slide. 
 
 Embedding self-playing timers made the experience fast-paced and fun! With the help of a colleague, we tag-teamed the experience. 
@@ -31,6 +29,8 @@ At the conclusion of the Session Smackdown we declared everyone a winner as they
 
 
 We used Google Slides to facilate the Smackdown: [Smackdown Slides](https://docs.google.com/presentation/d/12gkeA3bWxozbGVfSoVjNuwwb2x4-aevXSltaorlpkP8/edit?usp=sharing)
+
+<img src="/img/Smackdown1.jpg" alt="The Referees">
 
 Let's get cooking!
 
