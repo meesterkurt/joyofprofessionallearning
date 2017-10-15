@@ -21,4 +21,5 @@ I am commited to collaboration with leadership teams. I‘ve worked closely with
 As a teacher and administrator 1 to 1 schools I know first hand how technology transforms learning. 
 
 My recogognitions include Apple Distinguished Educator (ADE), Apple Distinguished Educator Advisory Board (2012-2014), AppleTeacher, a Google Certified Teacher, Google Certified Trainer, and I currently serve as a member of the ISTE Program Team.
+
 Contact me as your partner in planning professional learning. 
