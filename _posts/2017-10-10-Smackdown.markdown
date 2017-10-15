@@ -28,7 +28,6 @@ Participants in the audience got to hear a 30 second pitch for every session tha
 
 At the conclusion of the Session Smackdown we declared everyone a winner as they were all now able to attend the rest of the event with more certainty that they were selecting the best sessions for their professional learning needs. 
 
-<img src="/img/Smackdown2.png" alt="Smackdown Google Slides">
 
 We used Google Slides to facilate the Smackdown: [Smackdown Slides](https://docs.google.com/presentation/d/12gkeA3bWxozbGVfSoVjNuwwb2x4-aevXSltaorlpkP8/edit?usp=sharing)
 
