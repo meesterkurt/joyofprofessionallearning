@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Christine (DiPaulo) Klynen
+title: Christine Klynen
 position: Professional Learning Coach/Consultant | Apple Distinguished Educator | United States
 seotitle: Christine Klynen - Professional Learning Coach/Consultant | Joy of Professional Learning
 meta: Learn more about Christine(DiPaulo) Klynen and her contribution to the Joy of Professional Learning
