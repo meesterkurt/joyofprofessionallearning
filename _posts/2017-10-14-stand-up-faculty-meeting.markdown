@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New 15 Minute Faculty Meeting - The Stand Up
+title: The 15 Minute Faculty Meeting
 seotitle: Twice the Work in Half the Time
 date: 2017-10-14 8:32:10 -0800
 cat: blog
