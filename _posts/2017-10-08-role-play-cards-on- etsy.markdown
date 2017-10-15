@@ -12,9 +12,9 @@ Our team is the biggest factor in keeping our JoyofPL Project chugging along. Ea
 
 Working closely with our graphic designer, Kurt was able to articulate what the cards are intended to do and Sal could immediateley see the connection with our brand. 
 
-The hexagon heads are in character with the many facets of this team and our true passion for the connections we experience in our own learnng that immediately transfer to our student's learning experiences.
+The hexagon heads are in character with the many facets of this team and our true passion for the connections we experience in our own learning that immediately transfer to our student's learning experiences.
 
-The Team Role Cards are a compliment to our Joy of Professional Learning Book Series. This game challenges you to move a team forward when faced with a new challenge as each member of the team becomes an expert based on a random draw from the deck. 
+The Team Role Cards are a compliment to our Joy of Professional Learning Book Series. To move a team forward when faced with a new challenge, each member of the team becomes an expert based on a random character card drawn from the deck. 
 
 The cards can be used in the classroom for group work to enhance collaboration or with your team of professionals to accelerate a project. 
 
