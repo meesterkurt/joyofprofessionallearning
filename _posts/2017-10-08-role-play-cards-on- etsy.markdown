@@ -6,7 +6,7 @@ date: 2017-10-08 12:32:10 -0800
 cat: blog
 permalink: /blog/team-role-cards/
 author: Christine Klynen
-img: teamroleplay 
+img: teamroleplay
 ---
 Our team is the biggest factor in keeping our JoyofPL Project chugging along. Each one of us has talents that are necessary to the success of the team, our love for professional learning and that keep the passion for our project alive. Kurt designed these Team Role Cards because he could see in each of us the important roles we play. Who will you be?
 
