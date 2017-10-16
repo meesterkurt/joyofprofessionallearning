@@ -4,7 +4,7 @@ title: Team Role Play Cards for JoyofPL on ETSY
 seotitle: NEW!! Team Role Play cards are now in our Etsy Shop. 
 date: 2017-10-08 12:32:10 -0800
 cat: blog
-permalink: /blog/Team Role Cards/
+permalink: /blog/team-role-cards/
 author: Christine Klynen
 img:TeamRolePlay
 ---
