@@ -78,9 +78,6 @@ header .navbar-brand {
     float: none;
   }
 
-header .navbar-brand img{
-  width: 15%;
-}
 .navbar-brand>img {
     display: inline;
 }
