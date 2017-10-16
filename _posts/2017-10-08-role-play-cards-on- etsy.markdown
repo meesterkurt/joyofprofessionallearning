@@ -26,3 +26,10 @@ The cards come in a beautiful tin box for safe keeping.
 Be who you chose!
 
 Vist our Be the Square Peg Etsy shop to get a set of our new cards for EDU: [Team Role Play Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
+
+By
+[Christine and Kurt]({{ site.baseurl }}/about/kurtklynen/)
+
+To learn more, contact us at joyofpl@ictatelier.be 
+
+Follow us on [Twitter](https://twitter.com/joyofpl) and [Facebook](https://www.facebook.com/joyofpl/) learn more about our commitment to teachers be learners first! 
