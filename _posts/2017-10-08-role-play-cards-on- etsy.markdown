@@ -1,6 +1,14 @@
-
-
-Our team is the biggest factor in keeping our JoyofPL Project chugging along. Each one of us has talents that are necessary to the success of the team, our love for professional learning and that keep the passion for our project alive. Kurt designed these Team Role Cards because he could see in each of us the important roles we play. 
+---
+layout: post
+title: Team Role Play Cards for JoyofPL on ETSY
+seotitle: NEW!! Team Role Play cards are now in our Etsy Shop. 
+date: 2017-10-08 12:32:10 -0800
+cat: blog
+permalink: /blog/Team Role Cards/
+author: Christine Klynen
+img:TeamRolePlay
+---
+Our team is the biggest factor in keeping our JoyofPL Project chugging along. Each one of us has talents that are necessary to the success of the team, our love for professional learning and that keep the passion for our project alive. Kurt designed these Team Role Cards because he could see in each of us the important roles we play. Who will you be?
 
 Working closely with our graphic designer, Kurt was able to articulate what the cards are intended to do and Sal could immediateley see the connection with our brand. 
 
@@ -12,7 +20,7 @@ The cards can be used in the classroom for group work to enhance collaboration o
 
 Every role on the team gives specific characteristics to each player. Pick a card and complete a task/project, no matter how big or small, with your team based on the role you randomly chose. 
 
-The cards come in a beautiful tin box for safe keeping. 
+The cards come in a beautiful tin box for safe keeping. Grab a deck and accept the challenge to form your team by drawing a card from the deck. 
 
 Be who you chose!
 
