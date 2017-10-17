@@ -6,6 +6,7 @@ date: 2017-09-23 5:32:10 -0800
 cat: blog
 permalink: /blog/Recipe Reflections/
 author: Jason Kathman
+img:
 ---
 
 My mistake with JoyofPL Speed Dating.  
@@ -14,8 +15,5 @@ The first time I attempted the Speed Dating exercise I decided to stray from the
 When the pairs finished, they thanked each other, set the project paper down, and moved one sheet of paper to the right. The first couple of “dates” went very well. Participants were having great discussions on the SAMR Model and how they would change the tasks on the paper. Then, after a couple of rounds, I got the question, “So, do I have to discuss this project over again”? I immediately realized that the mistake I made was, as participants shifted enough to get to the end of their line (and switch to the other line) they were having to discuss the same project multiple times. 
 I ended the speed dating early because of my mistake.  
 As I reflected at the end of the day, I realized that the easy answer was to change the two lines into two circles, one inside the other. I still love the idea of placing a topic between the participants. I’ll just make sure to use a circle instead of lines next time.
-
-
-<img src="/img/SpeedDating.jpg" alt="Speed Dating">
 
 Follow us on Twitter @joyofpl and Facebook @joyofpl to see how we using recipes to inspire leaders and teachers! Share your recipe stories with us!
