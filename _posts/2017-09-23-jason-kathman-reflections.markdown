@@ -6,7 +6,7 @@ date: 2017-09-23 5:32:10 -0800
 cat: blog
 permalink: /blog/Recipe Reflections/
 author: Jason Kathman
-img:speeddating
+img: speeddating
 ---
 
 My mistake with JoyofPL Speed Dating.  
