@@ -22,3 +22,10 @@ We facililitated 3 workshop expereinces thought featuring recipes from our books
 It is magical to see our books come to life. We love seeing teachers have a renewed love of learning and how that translates to a new level of excitement in the classroom. 
 
 <img src="/img/KurtKlynenTD1.JPG" alt="Kurt Klynen"> 
+
+By
+[Christine]({{ site.baseurl }}/about/christineklynen/)
+
+To learn more, contact us at joyofpl@ictatelier.be 
+
+Follow us on [Twitter](https://twitter.com/joyofpl) and [Facebook](https://www.facebook.com/joyofpl/) learn more about our commitment to teachers be learners first! 
