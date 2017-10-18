@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ISTE 2017 and JoyofPL
-seotitle: Come join Christine and Kurt Klynen, Cheryl Davis, Camilla Gagliolo, and Katie Morrow at the ISTE 2017 conference and experience the Joy of Professional Learning.
+seotitle: Joy of PL Team Christine and Kurt Klynen, Cheryl Davis, Camilla Gagliolo, and Katie Morrow share recipes at ISTE 2017
 date: 2017-06-24 8:32:10 -0800
 cat: blog
 permalink: /blog/ISTE-2017/
