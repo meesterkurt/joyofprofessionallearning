@@ -4,6 +4,8 @@ title: Recipes for Designing Professional Learning Release
 seotitle: Recipes for Designing Professional Learning Release | Joy of Professional Learning
 metadescription: Our newest edition to the Joy of Professional Learning Book Series is in the store! This book thinks about leaders as learners and how our experiences as coaches can inspire leadership teams to embrace new ways to enhance workflow and save time.
 permalink: /blog/recipes-designing-professional-learning-release/
+author: Christine Klynen
+img: leadershipbook
 ---
 
 A new book for leaders was released this week.
