@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Learning Retreat
-seotitle: Showcase your Story in 3 minutes, the pitch.
+seotitle: Learning Retreat Weekend
 date: 2017-10-18 8:32:10 -0800
 cat: blog
-permalink: /blog/DigiWeekend: Learning, Teaching and Environment/
-author: Kurt Klynen , Belgium
+permalink: /blog/DigiWeekend Learning, Teaching, and Environment/
+author: Kurt Klynen,Belgium
 img: herodigiweekend
 ---
+
 Every school year we organize a DigiWeekend Retreat for innovative teachers, in a quiet inspiring location. This time our ICT team got the opportunity to learn from each other.
 
 It's starts on the Friday evening after a long hard week of work. We all arrive at a peaceful quiet location called “De KasteelHoeve”. 
