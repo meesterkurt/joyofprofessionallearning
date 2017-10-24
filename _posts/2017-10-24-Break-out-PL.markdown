@@ -21,8 +21,15 @@ During the reflection moment we used “The roles on the team cards” to reflec
 
 Next time we want to split the group in two rooms, solve the puzzles to help each other reach the end goal.
 
-
 Oh, and if you wondered if they broke out… YES they did!!!
+<img src="/img/readdirections.jpg" alt="Let's get started">
+
+More info:
+
+[BreakoutEDU](https://www.breakoutedu.com/)
+
+[Roles of the Team Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
+
 
 By
 [Kurt]({{ site.baseurl }}/about/kurtklynen/)
@@ -30,11 +37,4 @@ By
 To learn more, contact us at joyofpl@ictatelier.be 
 
 Follow us on [Twitter](https://twitter.com/joyofpl) and [Facebook](https://www.facebook.com/joyofpl/) learn more about our commitment to teachers be learners first! 
-
-Images 
-<img src="/img/readdirections.jpg" alt="Let's get started">
-
-More info:
-
-[BreakoutEDU](https://www.breakoutedu.com/) 
-[Roles on the team Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
+ 
