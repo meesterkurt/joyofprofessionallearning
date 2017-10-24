@@ -41,9 +41,9 @@ A weekend full of energy that celebrates teaching and inspires the growth mindse
 
 More info: [Kasteel Hoeve](http://www.kasteelhoevewange.be/) 
 
-<img src="/img/digiweekendblog.jpg"alt="Comrades in Learning”>
+<img src="/img/digiweekendblog.jpg" alt="Comrades in Learning">
 
-
+By:
 [Kurt]({{ site.baseurl }}/about/kurtklynen/)
 
 To learn more, contact us at joyofpl@ictatelier.be 
