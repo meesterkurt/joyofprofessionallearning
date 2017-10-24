@@ -6,7 +6,7 @@ date: 2017-10-18 8:32:10 -0800
 cat: blog
 permalink: /blog/Break out of the old PD/
 author: Kurt Klynen, Belgium
-img: Breakouthero
+img: BreakoutHero
 ---
 
 Break through Professional Development into Professional Learning
@@ -22,7 +22,7 @@ During the reflection moment we used “The roles on the team cards” to reflec
 Next time we want to split the group in two rooms, solve the puzzles to help each other reach the end goal.
 
 Oh, and if you wondered if they broke out… YES they did!!!
-<img src="/img/readdirections.jpg" alt="Let's get started">
+<img src="/img/Readdirections.jpg" alt="Let's get started">
 
 More info:
 
