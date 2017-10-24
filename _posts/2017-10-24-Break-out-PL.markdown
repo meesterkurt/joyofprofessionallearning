@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Break out of the old model of Professional Development
-seotitle: Prosfessional Learning with BreakoutEdu 
-date: 2017-10-18 8:32:10 -0800
+seotitle: Professional Learning with BreakoutEdu 
+date: 2017-10-23 8:32:10 -0800
 cat: blog
 permalink: /blog/Break out of the old PD/
 author: Kurt Klynen, Belgium
