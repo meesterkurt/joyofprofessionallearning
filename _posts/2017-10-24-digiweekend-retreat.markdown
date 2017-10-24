@@ -12,7 +12,7 @@ img: herodigiweekend
 Every school year we organize a DigiWeekend Retreat for innovative teachers, in a quiet inspiring location. This time our ICT team had the opportunity to learn from each other.
 
 It's starts on the Friday evening after a long hard week of work. We all arrive at a peaceful quiet location called “De KasteelHoeve”. 
-Met by the hostess who tells you about the story of this historic location: a 300 year old square house built on the foundations of the 13th century Château de Wanghe and how they won the green key award for being eco-friendly. 
+Met by the hostess who tells the story of this historic location: a 300 year old square house built on the foundations of the 13th century Château de Wanghe and how they won the green key award for being eco-friendly. 
 Every meal here is with prepared with local organic products from their own gardens and our team has full access facilities. 
 I can't stress enough how important environment is to stimulate learning.
 
