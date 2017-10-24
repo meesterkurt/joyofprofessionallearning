@@ -5,7 +5,7 @@ seotitle: Learning Retreat Weekend
 date: 2017-10-18 8:32:10 -0800
 cat: blog
 permalink: /blog/DigiWeekend Learning, Teaching, and Environment/
-author: Kurt Klynen,Belgium
+author: Kurt Klynen, Belgium
 img: herodigiweekend
 ---
 
