@@ -29,7 +29,7 @@ More info:
 
 [BreakoutEDU](https://www.breakoutedu.com/)
 
-[Roles of the Team Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
+[Roles on the Team Cards](https://www.etsy.com/listing/563398939/team-role-cards?utm_source=Twitter&utm_medium=PageTools&utm_campaign=Share&utm_term=so.lp.d2.v1&share_time=1507496502000)
 
 
 By
