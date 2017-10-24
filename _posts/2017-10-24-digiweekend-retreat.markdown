@@ -19,8 +19,7 @@ I can't stress enough how important environment is to stimulate learning.
 During dinner I tried to discover the learning goals of our group. 
 Learning for the next few days comes from within and comes from their own desires and needs, sparked by curiosity and passion for learning. 
 We believe in being learners for life. 
-
-[XQ Learner Goals] (https://xqsuperschool.org/resources/infographics/learners-for-life)
+[XQ Learner Goals](https://xqsuperschool.org/resources/infographics/learners-for-life)
 
 The very first time we wanted to organize this weekend, we had a set amount of workshops in mind and a fixed schedule. 
 After five minutes I threw away all the plans asked them: What do you want to learn? 
