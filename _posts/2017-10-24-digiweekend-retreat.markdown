@@ -39,10 +39,10 @@ Next up Learning and Teaching. Diving into shared resources and combining them w
 
 A weekend full of energy that celebrates teaching and inspires the growth mindset to support teachers as learning experience designers rejuvenates our passion.
 
-More info:
+More info: [Kasteel Hoeve](http://www.kasteelhoevewange.be/) 
+
 <img src="/img/digiweekendblog.jpg"alt="Comrades in Learning”>
 
-[Kasteel Hoeve](http://www.kasteelhoevewange.be/) 
 
 [Kurt]({{ site.baseurl }}/about/kurtklynen/)
 
