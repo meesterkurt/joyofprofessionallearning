@@ -19,7 +19,7 @@ The conference featured Kurt as the Keynote Speaker. His presentation to an audi
 
 We facililitated 3 workshops throughout the day featuring recipes from our books "The Joy of Professional Learning". It was a  memorable learning experience with particpants writing their Magnificant Minute Story, Speed Dating, and making content in the App Dice Challenge.  
 
-It is magical to see our books come to life. We love how teachers have a renewed love of learning and how that translates to the next level of excitement in the classroom. 
+The audience was so enthusiastic that during the Keynote we could hear the music in our opening video play as books were being downloaded by the dozen. Our books truly came to life. We love how teachers have a renewed love of learning and how that translates to the next level of excitement in the classroom. 
 
 <img src="/img/KurtKlynenTD1.JPG" alt="Kurt Klynen"> 
 
