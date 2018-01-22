@@ -32,7 +32,7 @@ If any member in the standup has questions, concerns or roadblocks that someone 
 
 The meeting is not mandatory but strongly encouraged.
 
-To START the STand Up Meeting:
+Getting started with your first Stand Up Meeting:
 ------
 
 The timekeeper sets the clock for 15 minutes.
