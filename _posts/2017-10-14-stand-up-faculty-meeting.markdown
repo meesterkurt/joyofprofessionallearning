@@ -10,7 +10,7 @@ img: standupmeeting2
 ---
 Changing the sit and get faculty meeting to a Stand Up
 ------
-When I first read "Scrum The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland [Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/ref=pd_lpo_sbs_14_t_0/131-4681130-1166934?_encoding=UTF8&psc=1&refRID=VEZXPNVKJ3Z2KFCFEPSG), I was intrigued by the process developers use to move a team and project forward. I thought about how this would be a good way to replace the long, end of the day, once a month faculty meeting. My why is relationships and relationship building. 
+When I first read "Scrum The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland - [Amazon](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109/ref=pd_lpo_sbs_14_t_0/131-4681130-1166934?_encoding=UTF8&psc=1&refRID=VEZXPNVKJ3Z2KFCFEPSG), I was intrigued by the process developers use to move a team and project forward. I thought about how this would be a good way to replace the long, end of the day, once a month faculty meeting. My why is relationships and relationship building. 
 
 I know that no good work happens in isolation. These meetings would foster relationship building, collaboration and ultimately become a better use of our time. Everyone has 15 minutes. I suggested we give it a try. We had our first standup meeting in 2013 with our administrative team to practice the stand up meeting and gain flow in our processes. It was so effective and successfull that we implemented it with our high school faculty and changed the old style faculty meeting forever. We never looked back and the Stand Up became, and still is to this day, the faculty meeting.
 
