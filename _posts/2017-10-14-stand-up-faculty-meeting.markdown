@@ -18,7 +18,7 @@ Get started by following these simple suggestions:
 
 The RULES of the Standup: 
 ------
-Be true to the mission
+Be true to the mission.
 
 Choose a Scrum Master - this person facilitates the Stand Up.
 
@@ -32,10 +32,10 @@ If any member in the standup has questions, concerns or roadblocks that someone 
 
 The meeting is not mandatory but strongly encouraged.
 
-To START the Meeting:
+To START the meeting:
 ------
 
-The timekeeper sets the clock for 15 minutes
+The timekeeper sets the clock for 15 minutes.
 
 The administrator AKA The Scrum Master starts the meeting with announcements. The need to knows.
 
