@@ -9,6 +9,9 @@ author: Kurt Klynen, Belgium
 img: BreakoutHero
 ---
 
+Break Out of the Old PD
+------
+
 This weekend we broke through Professional Development and into Professional Learning.
 
 Last week Friday a team of innovative educators came together to learn from each other. I knew their technology skills we're at a high level, so this time I wanted to challenge them using the four C’s: communication, collaboration, critical thinking and creativity. 
