@@ -42,7 +42,8 @@ a,
 a:active,
 a:focus,
 a:active {
-  text-decoration: none !important;
+  color: #963996;
+  text-decoration: none;
 }
 .section-title {
   margin-bottom: 70px;
@@ -90,9 +91,11 @@ header .navbar-default {
 header .navbar-default .navbar-nav li a {
   color: #fff;
   font-size: 15px;
+  text-decoration: none;
 }
 header .navbar-default .navbar-nav li a:hover {
-  color: #0066CC;
+  color: #fff;
+  text-decoration: underline;
 }
 /*---------------------------------------------
 					Index Start
@@ -157,6 +160,9 @@ header .navbar-default .navbar-nav li a:hover {
 #intro .section-title p {
   padding-top: 20px;
 }
+
+#intro a { text-decoration: none;}
+#intro a:hover{text-decoration: underline;}
 
 #intro img {width: 200px}
 /*--
@@ -801,7 +807,7 @@ footer p {
   color: #919191;
 }
 footer a {
-  color: #0066CC;
+  color: #963996;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -816,17 +822,18 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #0066CC;
+  color: #963996;
+  text-decoration: none
 }
 footer .footer-manu ul li a:hover {
-  color: #000;
+  text-decoration: underline;
 }
 
 -- mkg
 
 #slider a:active,
 #slider a:hover {
-  color: #fff;
+  text-decoration: underline;
 }
 
 .testimonial-carousel .user img {
