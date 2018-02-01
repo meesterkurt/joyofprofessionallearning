@@ -63,8 +63,8 @@ a:active {
 	Header Start
 --*/
 header {
-  background: #000000;
-  padding: 10px 0 20px 0;
+  background: #963996;
+  padding: 5px 0 5px 0;
 }
 header .navbar {
   margin-bottom: 0px;
@@ -80,6 +80,7 @@ header .navbar-brand {
 
 .navbar-brand>img {
     display: inline;
+    width: 50px;
 }
 header .navbar-default {
   background: none;
