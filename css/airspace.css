@@ -159,25 +159,25 @@ header .navbar-default .navbar-nav li a:hover {
 
 #intro img {width: 100%}
 /*--
-	service Start
+	books Start
 --*/
-#service {
+#books {
   text-align: center;
   padding: 90px 0;
 }
-#service .service-item {
+#books .books-item {
   padding-bottom: 30px;
 }
-#service .service-item i {
+#books .books-item i {
   font-size: 60px;
   color: #4A4656;
 }
-#service .service-item h4 {
+#books .books-item h4 {
   padding-top: 20px;
   margin: 0;
   color: #666;
 }
-#service .service-item p {
+#books .books-item p {
   color: #888;
   padding-top: 10px;
   margin: 0;
@@ -185,7 +185,7 @@ header .navbar-default .navbar-nav li a:hover {
   line-height: 1.8;
 }
 
-#service .service-item img {
+#books .books-item img {
   width: 100%;
 }
 /*--
@@ -261,7 +261,7 @@ header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p,
-#service p {
+#books p {
   color: #8d8f92;
   margin-bottom: 20px;
 }
