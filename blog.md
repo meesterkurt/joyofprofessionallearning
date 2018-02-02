@@ -4,6 +4,7 @@ title: Stories of Professional Learning
 seotitle: JoyofPL Blog | Joy of Professional Learning
 permalink: /blog/
 img: blog-hero
+subtext: Every story has a beginning, middle and end.
 ---
 
 {% for post in site.posts %}
