@@ -45,6 +45,8 @@ a:active {
   color: #963996;
   text-decoration: none;
 }
+
+a.btn {background-color: #963996; color: #fff}
 .section-title {
   margin-bottom: 70px;
 }
@@ -232,7 +234,7 @@ header .navbar-default .navbar-nav li a:hover {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #0066CC;
+  background-color: #963996;
   font-size: 15px;
   color: #fff;
   margin-top: 30px;
@@ -870,3 +872,5 @@ footer .footer-manu ul li a:hover {
 #portfolio-work.people {text-align: center;}
 
 .post img {width:100%;}
+
+#products img {width: 100%; padding: 3em;}

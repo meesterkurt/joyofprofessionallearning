@@ -2,7 +2,6 @@
 layout: people
 title: Marjan van de Vrie
 position: Adviseur Onderwijs | Apple Distinguished Educator | Netherlands
-seotitle: Marjan van de Vrie - Apple Professional Development trainer at Refresh.ed| Joy of Professional Learning
 meta: Learn more about Marjan van de Vrie and her contribution to the Joy of Professional Learning
 permalink: /about/marjanvandevrie/
 img: about-marjanvandevrie

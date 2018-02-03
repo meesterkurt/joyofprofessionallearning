@@ -2,7 +2,6 @@
 layout: people
 title: Cheryl Davis
 position: Technology Specialist & Staff Development | Apple Distinguished Educator | United States
-seotitle: Cheryl Davis - Technology Specialist & Staff Development | Joy of Professional Learning
 meta: Learn more about Cheryl Davis and her contribution to the Joy of Professional Learning
 permalink: /about/cheryldavis/
 img: about-cheryldavis

@@ -1,10 +1,9 @@
 ---
 layout: individual
 title: Stories of Professional Learning
-seotitle: JoyofPL Blog | Joy of Professional Learning
 permalink: /blog/
 img: blog-hero
-subtext: Every story has a beginning, middle and end.
+subtext: Our learning experiences are stories with a beginning, middle, and end. Each experience leads to new stories in our learning journey.
 ---
 
 {% for post in site.posts %}

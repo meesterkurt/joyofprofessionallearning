@@ -2,7 +2,6 @@
 layout: people
 title: Johan Anderssonn
 position: Pedagogical Innovator | Apple Distinguished Educator | Sweden
-seotitle: Johan Andersson | Pedagogical Innovator  | Joy of Professional Learning
 meta: Learn more about Johan Andersson and his contribution to the Joy of Professional Learning
 permalink: /about/johanandersson/
 img: about-johanandersson

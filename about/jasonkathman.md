@@ -2,7 +2,6 @@
 layout: people
 title: Jason Kathman
 position: Technology Integration Specialist | Apple Distinguised Educator | United States
-seotitle: Jason Kathman - Technology Integration Specialist | Joy of Professional Learning
 meta: Learn more about Jason Kathman and his contribution to the Joy of Professional Learning
 permalink: /about/jasonkathman/
 img: about-jasonkathman
