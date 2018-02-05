@@ -4,8 +4,7 @@ title: Meet the Team of Educators
 meta: The Joy of Professional Learning books were masterfully orchestrated by a team of educators with over 100+ years of professional learning experience. Meet our team.
 subtext: As a team of global educators, we believe in innovative professional learning and our mission is to bring joy back to the learning experience through innovative practices that are shared, relevant, and meaningful.
 permalink: /about/
-img: featue-about-bg
-
+img: slider-bg
 ---
 
 <section id="portfolio-work">
