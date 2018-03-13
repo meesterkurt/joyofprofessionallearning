@@ -42,6 +42,7 @@ subtext: Enhance your learning experience with these unique hand made products t
         </div>
       </div>
     </div>
+    <div class="row">
       <div class="col-sm-12 col-md-3">
         <div class="books-item">
           <img src="/img/products/pinswithcards.jpg" />
