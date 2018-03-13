@@ -20,21 +20,18 @@ subtext: Enhance your learning experience with these unique hands on products an
         <div class="books-item">
           <img src="/img/products/classic-app-dice.jpg" />
           <h4><a href="/products/classic-app-dice/">Classic or Urban App Dice</a></h4>
-          <p>$40</p>
         </div>
       </div>
       <div class="col-sm-12 col-md-3">
         <div class="books-item">
           <img src="/img/products/school-role-play-cards.jpg" />
           <h4><a href="/products/school-role-play-cards/">School Role Play Cards</a></h4>
-          <p>$20</p>
         </div>
       </div>
       <div class="col-sm-12 col-md-3">
         <div class="books-item">
           <img src="/img/products/teacher-app-dice.jpg" />
           <h4><a href="/products/teacher-app-dice/">Apple Teacher App Dice</a></h4>
-          <p>$50</p>
         </div>
       </div>
     </div>
@@ -43,7 +40,6 @@ subtext: Enhance your learning experience with these unique hands on products an
         <div class="books-item">
           <img src="/img/products/coaster.jpg" />
           <h4><a href="/products/coaster/">On the Back of a Coaster</a></h4>
-          <p>$10</p>
         </div>
       </div>
     </div>
