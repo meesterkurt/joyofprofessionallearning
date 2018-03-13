@@ -1,7 +1,7 @@
 ---
 layout: products
 title: Team_Role_Play_Cards_with_Pins
-permalink: /products/card-game/
+permalink: /products/card-pins/
 img: products/card-pins
 img2: card-pins
 subtext: Enhance your learning experience with these unique products that activate wonder and play.
