@@ -49,3 +49,4 @@ subtext: Enhance your learning experience with these unique hand made products t
          </div>
       </div>
     </div>
+<section>
