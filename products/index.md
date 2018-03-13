@@ -13,7 +13,6 @@ subtext: Enhance your learning experience with these unique hands on products an
         <div class="books-item">
           <img src="/img/products/card-game.jpg" />
           <h4><a href="/products/card-game/">#EDU Card Game</a></h4>
-          <p>$40</p>
         </div>
       </div>
       <div class="col-sm-12 col-md-3">
