@@ -1,6 +1,6 @@
 ---
 layout: products
-title: Team Role Play
+title: Team_Role_Play_Cards_with_Pins
 permalink: /products/card-game/
 img: products/card-pins
 img2: card-pins
