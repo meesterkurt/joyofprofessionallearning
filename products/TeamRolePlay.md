@@ -8,4 +8,4 @@ subtext: Enhance your learning experience with these unique products that activa
 etsy: Team Role Play Cards?ref=shop_home_active_5
 ---
 
-Our team role play cards and pins was created for the Joy of Professional Learning and used to give micro credentials to team members.
+Our team role play cards and pins are a special edition to the Joy of Professional Learning and are used to give micro credentials to team members.
