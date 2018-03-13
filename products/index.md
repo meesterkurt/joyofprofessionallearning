@@ -3,7 +3,7 @@ layout: individual
 title: Products by the Joy of PL
 permalink: /products/
 img: products/products-hero
-subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
+subtext: Enhance your learning experience with these unique hand made products that activate wonder and play.
 ---
 
 <section id="books">
