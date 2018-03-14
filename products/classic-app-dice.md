@@ -5,7 +5,7 @@ permalink: /products/classic-app-dice/
 img: products/classic-app-dice
 img2: classic-app-dice
 subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
-etsy: classic-or-urban-app-dice?ref=shop_home_active_1
+etsy:477246557/classic-or-urban-app-dice?ref=related-5
 ---
 
 We make learning fun!
