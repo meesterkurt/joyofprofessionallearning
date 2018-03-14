@@ -5,7 +5,7 @@ permalink: /products/school-role-play-cards/
 img: products/school-role-play-cards
 img2: school-role-play-cards
 subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
-etsy: school-role-play-cards?ref=shop_home_active_4
+etsy:565043371/school-role-play-cards?ref=shop_home_feat_2
 ---
 
 We make learning fun!
