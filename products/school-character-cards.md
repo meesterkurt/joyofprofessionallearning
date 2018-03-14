@@ -1,6 +1,6 @@
 ---
 layout: products
-title: School Character Play Cards
+title: School Character Cards
 permalink: /products/school_character_cards/
 img: products/school_character_cards
 img2: school_character_cards
