@@ -78,9 +78,9 @@ img: slider-bg
         <div class="books-item">
           <img src="/img/joy-professional-learning-confrences.png" />
           <h4>The Little Black Book of Conferences</h4>
-          <p>In this eigth book in our series of professional learning, there are 9 professional learning recipes that challenge learners to change sit and get professional development to conference style professional learning.</p>
-          <p>NEW for iOS and COMING SOON TO Kindle.</p>
-          <p><a href="https://itunes.apple.com/us/book/the-little-black-guide-of-conferences/id1354058269?mt=11">NEW</a></p>
+          <p>In this eigth book in our series of professional learning, there are 9 recipes that challenge professional development coordinators to change sit and get professional development to conference style professional learning events.</p>
+          <p>NEW</p>
+          <p><a href="https://itunes.apple.com/us/book/the-little-black-guide-of-conferences/id1354058269?mt=11">Download on iTunes</a></p>
           </div>
         </div>
       </div>
