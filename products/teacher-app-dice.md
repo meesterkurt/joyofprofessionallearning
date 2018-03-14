@@ -5,7 +5,7 @@ permalink: /products/teacher-app-dice/
 img: products/teacher-app-dice
 img2: teacher-app-dice
 subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
-etsy: apple-teacher-app-dice-special-edition?ref=shop_home_active_2
+etsy:565039529/apple-teacher-app-dice-special-edition?ref=listing-shop-header-3
 ---
 
 We make learning fun!
