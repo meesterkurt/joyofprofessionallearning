@@ -24,4 +24,4 @@ A super fun way to engage all learners and create fun classroom activities for a
 
 Check out our Joy of Professional Learning recipe book to see how schools are using app dice for professional learning events. http://tinyurl.com/joyofpl-basics2
 
-Learn more about the [Apple Teacher Program](https://www.apple.com/education/apple-teacher/){:target="_blank"}.
+Learn more about the [Apple Teacher Program](https://www.apple.com/education/apple-teacher/)
