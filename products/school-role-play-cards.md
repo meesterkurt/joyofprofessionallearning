@@ -1,9 +1,9 @@
 ---
 layout: products
 title: On the Back of a Coaster
-permalink: /products/school-role-play-cards/
-img: products/school-role-play-cards
-img2: school-role-play-cards
+permalink: /products/school_character_cards/
+img: products/school_character_cards
+img2: school_character_cards
 subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
 etsy: 565043371/school-role-play-cards?ref=shop_home_feat_2
 ---
