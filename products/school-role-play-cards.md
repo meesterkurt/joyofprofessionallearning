@@ -1,7 +1,7 @@
 ---
 layout: products
 title: School Character Play Cards
-permalink: /products/school character cards/
+permalink: /products/school_character_cards/
 img: products/school_character_cards
 img2: school_character_cards
 subtext: Enhance your learning experience with these unique hands on products and activities that activate wonder and play.
