@@ -9,7 +9,9 @@ img: about-christineklynen
 ---
 @ckklynen 
 
-I am an Innovator, Leader,  Consultant,  Author,  Vision Former,  Apple Distinguisehed Educator:Advisory Board,  ISTE Program Committee, Change Maker, Teacher of Teachers, Disrupter, @joyofpl COO,  “Let failure be a tailwind not a headwind.”  United States
+I am an Innovator, Leader,  Consultant,  Author,  Vision Former,  Apple Distinguisehed Educator:Advisory Board,  ISTE Program Committee, Change Maker, Teacher of Teachers, Disrupter, @joyofpl COO. United States
+
+“Let failure be a tailwind not a headwind.”  
 
 My skills are centered on coaching, leading teams, and I am committed to designing and delivering professional learning working closely with administrators and teachers to create engaging experiences, authoring content, instructional design, inquiry learning, and personalized learning. 
 
