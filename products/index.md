@@ -1,6 +1,6 @@
 ---
 layout: individual
-title: Products by the Joy of PL
+title: Products by bethesquarepeg
 permalink: /products/
 img: products/products-hero
 subtext: Enhance your learning experience with these unique hand made products that activate wonder and play.
