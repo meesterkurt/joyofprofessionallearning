@@ -1,6 +1,6 @@
 ---
 layout: products
-title: Team Role Cards with Micro Credential Pins
+title: Team Role Play Cards with Pins
 permalink: /products/pinswithcards/
 img: products/pinswithcards
 img2: pinswithcards
