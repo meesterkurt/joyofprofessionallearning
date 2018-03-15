@@ -24,7 +24,7 @@ subtext: Enhance your learning experience with these unique hand made products t
       <div class="col-sm-12 col-md-3">
         <div class="books-item">
           <img src="/img/products/school_character_cards.jpg" />
-          <h4><a href="/products/school_character_cards./">School Character Cards</a></h4>
+          <h4><a href="/products/school-character-cards/">School Character Cards</a></h4>
         </div>
       </div>
       <div class="col-sm-12 col-md-3">
