@@ -1,9 +1,10 @@
 ---
 layout: individual
 title: Stories of Professional Learning
-permalink: /blog/
+permalink: "/blog/"
 img: blog-hero
-subtext: Our learning experiences are stories with a beginning, middle, and end. Each experience leads to new stories in our learning journey.
+subtext: Our learning experiences are stories with a beginning, middle, and end. Each
+  experience leads to new stories in our learning journey.
 ---
 
 {% for post in site.posts %}
