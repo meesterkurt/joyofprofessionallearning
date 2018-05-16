@@ -1,21 +1,22 @@
 ---
 layout: people
 title: Christine Klynen
-position: Joy of Professional Learning COO, Coach, Consultant | Leader in Educational Technology | United States
-meta: Learn more about Christine Klynen and her contribution to the Joy of Professional Learning
-permalink: /about/christineklynen/
+position: Joy of Professional Learning COO, Coach, Consultant | Leader in Educational
+  Technology | United States
+meta: Learn more about Christine Klynen and her contribution to the Joy of Professional
+  Learning
+permalink: "/about/christineklynen/"
 img: about-christineklynen
-
 ---
-@ckklynen 
+@ckklynen
 
-I am an Innovator, Leader,  Consultant,  Author,  Vision Former,  Apple Distinguisehed Educator:Advisory Board,  ISTE Program Committee, Change Maker, Teacher of Teachers, Disrupter, @joyofpl COO. United States
+I am an Innovator, Leader,  Consultant,  Author,  Vision Former,  Change Maker, Teacher of Teachers, Disrupter, @joyofpl COO. United States
 
-“Let failure be a tailwind not a headwind.”  
+“Let failure be a tailwind not a headwind.”
 
-My skills are centered on coaching, leading teams, and I am committed to designing and delivering professional learning. My partnership with administrators and teachers is key to creating engaging experiences, authoring content, instructional design, inquiry learning, and personalized learning. 
+My skills are centered on coaching, leading teams, and I am committed to designing and delivering professional learning. My partnership with administrators and teachers is key to creating engaging experiences, authoring content, instructional design, inquiry learning, and personalized learning.
 
-I have published courses in tTunes U about creating a culture of innovation, mobile learning, technology integration, and lessons for the classroom that foster creative thinking, problem solving, inquiry, with a community centered focus.
+I have published courses in iTunes U about creating a culture of innovation, mobile learning, technology integration, and lessons for the classroom that foster creative thinking, problem solving, inquiry, with a community centered focus.
 
 As a teacher and administrator in 1 to 1 schools I know first hand how technology transforms teaching and learning.
 
