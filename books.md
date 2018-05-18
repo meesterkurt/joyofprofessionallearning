@@ -1,8 +1,8 @@
 ---
 layout: individual
 title: Books Available on iOS and Kindle
-meta: The Joy of Professional Learning is a series of books filled with innovative
-  ways or "recipes" to enhance professional learning experiences.
+meta: The Joy of Professional Learning is a series of books filled with "recipes",
+  innovative ways to enhance professional learning experiences.
 subtext: Below is the series of books for coaches and professional learning coordinators.
 permalink: "/books/"
 img: slider-bg
