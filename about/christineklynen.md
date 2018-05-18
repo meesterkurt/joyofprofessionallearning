@@ -26,8 +26,7 @@ Contact me as your partner in planning and delivering a new  professional learni
 
 <p> Over the next few months The Joy of Professional Learning will be working with many schools and sharing our work at conferences. We would love to put your school or conference on our summer calendar too. Bring us to your school to work with the leadership team to design the learning experience for the upcoming school year. We know for sure the core of the learning experience for teachers has immediate impact in the classroom.  We have several openings in our summer calendar, one opening starting in early August. We invite to learn about our services. Let's make back to school feel like it did when we were new learners.
 
- </p>
+</p>
 
           </ul>
-
           <a class="btn btn-view-works" href="[https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform](https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform "Hello Christine!")"> Say Hello to Christine our Chief Learning Officer </a>
