@@ -22,4 +22,4 @@ As a teacher and administrator in 1 to 1 schools I know first hand how technolog
 
 My recognitions include Apple Distinguished Educator (ADE), Apple Distinguished Educator Advisory Board (2012-2014, 2017 - Present), AppleTeacher, a Google Certified Teacher, Google Certified Trainer, and I currently serve as a member of the ISTE Program Team.
 
-Contact me as your partner in planning and delivering a new way of professional learning.
+Contact me as your partner in planning and delivering a new  professional learning.
