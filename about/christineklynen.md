@@ -28,5 +28,6 @@ Contact me as your partner in planning and delivering a new  professional learni
 
 </p>
 
-          </ul>
-          <a class="btn btn-view-works" href="[https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform](https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform "Hello Christine!")"> Say Hello to Christine our Chief Learning Officer </a>
+</ul>       
+
+<a class="btn btn-view-works" href="\[https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform\](https://docs.google.com/forms/d/e/1FAIpQLSek52h3iUlDBh3HNz6-3A6uvoeH9aODXe7C2gCnuGXyZttW4w/viewform "Hello Christine!")"> Say Hello to Christine our Chief Learning Officer </a>
