@@ -4,6 +4,6 @@ frontmatter_file_url_template: "/img/blog-posts/"
 body_file_url_template: "/uploads/:year:/:month:/:day:"
 new_page_extension: md
 auto_deploy: false
-admin_path: ''
+admin_path: www.joyofprofessionallearning.org/
 webhook_url: 
 collections: 
