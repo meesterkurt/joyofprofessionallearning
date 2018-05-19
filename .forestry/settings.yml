@@ -4,8 +4,8 @@ auto_deploy: false
 admin_path: www.joyofprofessionallearning.org/
 webhook_url: 
 collections: 
-upload_dir: www.joyofprofessionallearning.org/img/blog-posts
-public_path: www.joyofprofessionallearning.org/img/blog-posts
-front_matter_path: www.joyofprofessionallearning.org/img/blog-posts
+upload_dir: www.joyofprofessionallearning.org/img
+public_path: www.joyofprofessionallearning.org/img
+front_matter_path: www.joyofprofessionallearning.org/img
 use_front_matter_path: true
 file_template: ":filename:"
