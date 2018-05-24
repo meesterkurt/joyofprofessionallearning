@@ -25,17 +25,18 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-- type: datetime
-  name: date
-  label: Date of Post
-  description: When do you want this to post?
-  config:
-    date_format: yyyy-mm-dd
-    time_format: hh:mm:ss -0800
-    required: true
 - type: file
   name: img
   label: Hero Image
   description: What image should show up in the hero?
+- type: datetime
+  name: date
+  label: Date
+  default: 2018-05-24 03:00:00 -0400
+  config:
+    date_format: YYYY-MM-DD
+    time_format: T00:00:000Z
+    required: true
+  description: When should this be published?
 pages:
 - our-services.md
