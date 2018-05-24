@@ -38,5 +38,3 @@ fields:
     time_format: T00:00:000Z
     required: true
   description: When should this be published?
-pages:
-- our-services.md
