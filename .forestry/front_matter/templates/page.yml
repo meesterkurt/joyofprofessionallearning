@@ -25,3 +25,5 @@ fields:
   label: Permalink
   config:
     required: false
+pages:
+- the-joy-of-professional-learning.md
