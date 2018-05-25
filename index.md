@@ -1,9 +1,7 @@
 ---
 title: The Joy of Professional Learning
-date: 2018-05-25 14:14:32 -0400
 layout: page
-meta: JoyofPL provides planning services and designed experiences to engage teachers
-  in professional learning.
+meta: JoyofPL provides planning services and designed experiences to engage teachers in professional learning.
 permalink: "/"
 ---
 <!-- Slider Start -->
@@ -28,7 +26,7 @@ permalink: "/"
         <div class="block">
           <div class="section-title">
             <h2>For educators, by educators</h2>
-            <p>Our global team of experienced professional learning coaches and leaders.</p> 
+            <p>Our global team of experienced professional learning coaches and leaders.</p>
             </ul>
           <a class="btn btn-view-works" href="/about/"> Meet the Team </a>
           </div>
