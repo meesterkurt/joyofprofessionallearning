@@ -6,12 +6,6 @@ meta: JoyofPL provides planning services and designed experiences to engage teac
   in professional learning.
 permalink: "/"
 ---
-----
-layout: page
-title: Professional Learning | The Joy of Professional Learning
-meta: JoyofPL provides planning services and designed experiences to engage teachers in professional learning.
-permalink: "/"
-----
 <!-- Slider Start -->
 <section id="slider">
   <div class="container">
