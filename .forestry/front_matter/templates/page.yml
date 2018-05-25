@@ -26,4 +26,4 @@ fields:
   config:
     required: false
 pages:
-- the-joy-of-professional-learning.md
+- index.md
