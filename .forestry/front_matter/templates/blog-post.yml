@@ -32,7 +32,7 @@ fields:
 - type: datetime
   name: date
   label: Date
-  default: 2018-05-24 03:00:00 -0400
+  default: 2018-05-24 07:00:00 +0000
   config:
     date_format: YYYY-MM-DD
     time_format: T00:00:000Z
