@@ -20,3 +20,8 @@ fields:
   description: Brief description of page
   config:
     required: true
+- type: text
+  name: permalink
+  label: Permalink
+  config:
+    required: false
