@@ -23,7 +23,7 @@ meta: "The Joy of Professional Learning pulls together a series of recipes to he
 # baseurl: "/" # the subpath of your site
 url: "https://www.joyofprofessionallearning.com" # the base hostname & protocol for your site
 cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+logo: "/img/logo.png"
 
 # Build settings
 markdown: kramdown
