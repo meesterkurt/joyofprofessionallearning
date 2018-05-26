@@ -38,3 +38,5 @@ fields:
     time_format: T00:00:000Z
     required: true
   description: When should this be published?
+pages:
+- _posts/participating-vs-collaboration.md
