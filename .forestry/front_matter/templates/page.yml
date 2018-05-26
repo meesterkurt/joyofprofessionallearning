@@ -25,3 +25,5 @@ fields:
   label: Permalink
   config:
     required: false
+pages:
+- index-html.md
