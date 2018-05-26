@@ -1,0 +1,27 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Title of page
+  config:
+    required: true
+- type: text
+  name: meta
+  label: Meta
+  description: Description about the page
+  config:
+    required: true
+- type: text
+  label: Date
+  name: date
+  description: Date for publish
+  config:
+    required: true
+  default: yyyy-mm-ddT09:00:00
+- type: file
+  label: Hero Image
+  name: img
+  description: main image on the post
