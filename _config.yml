@@ -21,7 +21,7 @@ meta: "The Joy of Professional Learning pulls together a series of recipes to he
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "www.joyofprofessionallearning.com" # the base hostname & protocol for your site
+url: "www.joyofprofessionallearning.org" # the base hostname & protocol for your site
 logo: "/img/logo.png"
 
 # Build settings
