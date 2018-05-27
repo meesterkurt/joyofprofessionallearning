@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Christine Klynen
-position: Joy of Professional Learning CLO, Coach, Consultant | Leader in Educational
+position: Joy of Professional Learning COO, Coach, Consultant | Leader in Educational
   Technology | United States
 meta: Learn more about Christine Klynen and her contribution to the Joy of Professional
   Learning
