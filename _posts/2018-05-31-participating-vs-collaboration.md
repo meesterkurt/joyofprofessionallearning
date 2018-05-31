@@ -3,7 +3,7 @@ title: Participating Vs Collaboration
 layout: post
 date: 2018-05-24 07:00:00 +0000
 img: "/img/802BFA49-D8F0-412E-95F4-6E87EFF063E7.jpeg"
-meta: Our joy of professional learning and the thrill of participatory creativity.
+meta: The Joy of Professional Learning and the thrill of participatory creativity.
 ---
 These last few weeks I have been learning about learning. From designing interdisciplinary units at the Museum of Natural History in NYC then in a Project Zero workshop and panel discussion about participatory creativity. It was an amazing experience learning about how create when we move from the individual “I”, from collaboration where everyone feels they need to do everything to  “WE“, calling on the collective genius of a team and determining how each “actor” fills the roles on a team in a distributed process of ideas. 
 
