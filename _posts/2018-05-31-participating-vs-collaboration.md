@@ -1,5 +1,5 @@
 ---
-title: Participating Vs Collaboration
+title: Participating Vs Collaborating
 layout: post
 date: 2018-05-24 07:00:00 +0000
 img: ''
