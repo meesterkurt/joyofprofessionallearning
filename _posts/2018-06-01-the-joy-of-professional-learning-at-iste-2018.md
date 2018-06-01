@@ -1,6 +1,6 @@
 ---
 title: The Joy of Professional Learning at ISTE 2018
-date: yyyy-mm-ddT09:00:00
+date: 2018-06-01 00:00:00 +0000
 meta: 'ISTE 2018 Conference '
 img: ''
 ---
