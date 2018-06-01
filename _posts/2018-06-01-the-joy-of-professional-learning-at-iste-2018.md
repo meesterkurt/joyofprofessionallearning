@@ -2,7 +2,7 @@
 title: The Joy of Professional Learning at ISTE 2018
 date: 2018-06-01 00:00:00 +0000
 meta: 'ISTE 2018 Conference '
-img: "/img/ISTE_2018_Digital_Badge_Speaker-1"
+img: "/img/ISTE_2018_Digital_Badge_Speaker-2"
 ---
 We are coming to ISTE and we could not be more excited! Our sessions are now included in the premium registration. No more additional fees for the opening workshops. Sign up now and experience the joy!
 
