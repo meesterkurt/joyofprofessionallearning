@@ -25,3 +25,5 @@ fields:
   label: Hero Image
   name: img
   description: main image on the post
+pages:
+- _posts/the-joy-of-professional-learning-at-iste-2018.md
