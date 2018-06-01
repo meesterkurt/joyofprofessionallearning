@@ -2,7 +2,7 @@
 title: The Joy of Professional Learning at ISTE 2018
 date: 2018-06-01 00:00:00 +0000
 meta: 'ISTE 2018 Conference '
-img: "/img/ISTE_2018_Digital_Badge_Speaker-2"
+img: ''
 ---
 We are coming to ISTE and we could not be more excited! Our sessions are now included in the premium registration. No more additional fees for the opening workshops. Sign up now and experience the joy!
 
@@ -20,3 +20,5 @@ Join us in professional practice as we take our learning experiences to new heig
 Interactive lecture -- Location: Prairie (r)
 
 **SERIOUS PLAY! Learning with Apple Distinguished Educators: Enhancing Creativity, Productivity, and Content Creation** - Wednesday, June 27, 9:00 am–1:00 pm Playground -- Location: Playground A, Level 3, Skyline Ballroom Pre-function
+
+[ISTE_2018_Digital_Badge_Speaker-3](/img/ISTE_2018_Digital_Badge_Speaker-3 "ISTE_2018_Digital_Badge_Speaker-3")
