@@ -2,12 +2,8 @@
 title: The Joy of Professional Learning at ISTE 2018
 date: 2018-06-01 00:00:00 +0000
 meta: 'ISTE 2018 Conference '
-img: ''
+img: "/img/ISTE_2018_Digital_Badge_Speaker-1"
 ---
-<a href="[https://conference.iste.org/2018/program/badgeclick.php?spid=110775203](https://conference.iste.org/2018/program/badgeclick.php?spid=110775203 "https://conference.iste.org/2018/program/badgeclick.php?spid=110775203")"> 
-
-<img src='![](https://conference.iste.org/2018/program/images/ISTE_2018_Digital_Badge_Speaker.png)'> </a>
-
 We are coming to ISTE and we could not be more excited!
 
 At the Joy of Professional Learning we believe our recipes engage educators in professional practice. We are committed to planning sessions throughout the year that are new and emerging learning opportunities combined with days to practice what we learned as a team. Professional Learning can be a combination of the 2, new learning and professional practice.
